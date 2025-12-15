@@ -1,0 +1,1743 @@
+pollster,date,sample,approve,disapprove,spread
+rcp_average,11/18 - 12/14,,43.8,53.4,+9.6
+Rasmussen Reports,12/8 - 12/14,1500 LV,46,52,+6.0
+Big Data Poll,12/10 - 12/12,3004 RV,47,50,+3.0
+Economist/YouGov,12/5 - 12/8,1380 RV,43,54,+11.0
+AP/NORC**,12/4 - 12/8,1146 A,36,61,+25.0
+Harvard-Harris,12/2 - 12/4,2204 RV,47,49,+2.0
+RMG Research**,12/3 - 12/11,3000 RV,47,51,+4.0
+Morning Consult,12/5 - 12/7,2201 RV,45,52,+7.0
+Reuters/Ipsos,12/3 - 12/8,4434 A,41,57,+16.0
+Quantus Insights,12/4 - 12/5,1000 RV,43,53,+10.0
+Daily Mail,12/3 - 12/5,1000 RV,47,53,+6.0
+NBC News Decision Desk,11/20 - 12/8,20252 A,42,58,+16.0
+I&amp;I/TIPP,11/25 - 11/29,1483 A,43,47,+4.0
+Yahoo News,11/20 - 11/24,1132 RV,44,54,+10.0
+InsiderAdvantage,11/20 - 11/21,800 LV,44,49,+5.0
+CBS News,11/19 - 11/21,2489 A,40,60,+20.0
+Emerson,11/18 - 11/21,1000 RV,45,55,+10.0
+Economist/YouGov,11/28 - 12/1,1456 RV,42,56,+14.0
+Big Data Poll,11/28 - 12/1,2008 RV,45,51,+6.0
+Morning Consult,11/26 - 11/30,2200 RV,45,52,+7.0
+RMG Research*,11/19 - 12/4,3000 RV,45,53,+8.0
+Economist/YouGov,11/21 - 11/24,1511 RV,43,56,+13.0
+Morning Consult,11/21 - 11/23,2200 RV,45,52,+7.0
+Big Data Poll,11/20 - 11/21,2006 RV,45,50,+5.0
+Daily Mail,11/19 - 11/20,1246 RV,45,55,+10.0
+Economist/YouGov,11/15 - 11/17,1382 RV,43,56,+13.0
+FOX News,11/14 - 11/17,1005 RV,41,58,+17.0
+RMG Research*,11/12 - 11/20,3000 R,46,53,+7.0
+Gallup,11/3 - 11/25,1321 A,36,60,+24.0
+Reuters/Ipsos,11/14 - 11/17,1017 A,38,60,+22.0
+Morning Consult,11/14 - 11/16,2201 RV,46,52,+6.0
+NPR/PBS/Marist,11/10 - 11/13,1291 RV,40,57,+17.0
+Quantus Insights,11/11 - 11/12,1000 RV,43,55,+12.0
+Reuters/Ipsos,11/7 - 11/12,938 RV,40,58,+18.0
+Marquette,11/5 - 11/12,1052 A,43,57,+14.0
+Economist/YouGov,11/7 - 11/10,1500 RV,43,55,+12.0
+Morning Consult,11/7 - 11/9,2201 RV,44,54,+10.0
+RMG Research*,11/5 - 11/13,3000 RV,49,50,+1.0
+AP/NORC**,11/6 - 11/10,1143 A,36,62,+26.0
+Harvard-Harris,11/4 - 11/6,2000 RV,44,51,+7.0
+Emerson,11/3 - 11/4,1000 RV,41,49,+8.0
+Economist/YouGov,10/31 - 11/3,1475 RV,43,55,+12.0
+Morning Consult,10/31 - 11/2,2202 RV,45,52,+7.0
+RMG Research*,10/29 - 11/6,3000 RV,46,51,+5.0
+CBS News,10/29 - 10/31,2124 A,41,59,+18.0
+I&amp;I/TIPP,10/28 - 10/31,1418 A,40,51,+11.0
+CNN,10/27 - 10/30,954 RV,39,61,+22.0
+NewsNation,10/27 - 10/29,1159 LV,43,56,+13.0
+Big Data Poll,10/26 - 10/28,2984 RV,45,51,+6.0
+RMG Research*,10/22 - 10/30,3000 RV,48,49,+1.0
+ABC/Wash Post/Ipsos,10/24 - 10/28,2203 RV,43,57,+14.0
+NBC News,10/24 - 10/28,1000 RV,43,55,+12.0
+Economist/YouGov,10/24 - 10/27,1476 RV,43,55,+12.0
+Morning Consult,10/24 - 10/26,2202 RV,46,51,+5.0
+Reuters/Ipsos,10/24 - 10/26,1018 A,40,57,+17.0
+Yahoo News,10/23 - 10/27,1197 RV,43,55,+12.0
+Economist/YouGov,10/17 - 10/20,1448 RV,43,55,+12.0
+RMG Research*,10/15 - 10/22,3000 RV,51,47,+4.0
+Morning Consult,10/17 - 10/19,2200 RV,46,51,+5.0
+Quinnipiac,10/16 - 10/20,1327 RV,40,54,+14.0
+Reuters/Ipsos,10/15 - 10/20,4385 A,42,56,+14.0
+Daily Mail,10/14 - 10/15,1004 RV,51,49,+2.0
+Emerson,10/13 - 10/14,1000 RV,45,48,+3.0
+RMG Research*,10/8 - 10/16,3000 RV,52,47,+5.0
+Gallup,10/1 - 10/16,1000 A,41,54,+13.0
+Economist/YouGov,10/10 - 10/13,1467 RV,44,54,+10.0
+Morning Consult,10/10 - 10/12,2202 RV,45,53,+8.0
+AP/NORC**,10/9 - 10/13,1289 A,37,61,+24.0
+CNBC,10/8 - 10/12,1000 A,44,52,+8.0
+Quantus Insights,10/6 - 10/8,1000 RV,47,51,+4.0
+Reuters/Ipsos,10/3 - 10/7,1154 A,40,58,+18.0
+Economist/YouGov,10/4 - 10/6,1490 RV,43,55,+12.0
+Rasmussen Reports,10/1 - 10/7,1500 LV,48,50,+2.0
+Morning Consult,10/3 - 10/5,2200 RV,46,52,+6.0
+RMG Research*,10/1 - 10/9,3000 RV,51,48,+3.0
+CBS News,10/1 - 10/3,2441 A,42,58,+16.0
+Harvard-Harris,10/1 - 10/2,2413 RV,46,50,+4.0
+InsiderAdvantage,9/29 - 9/30,800 LV,52,46,+6.0
+I&amp;I/TIPP,9/30 - 10/2,1459 A,42,46,+4.0
+Economist/YouGov,9/26 - 9/29,1518 RV,43,54,+11.0
+Rasmussen Reports,9/24 - 9/30,1500 LV,49,48,+1.0
+Morning Consult,9/26 - 9/28,2202 RV,46,52,+6.0
+Yahoo News,9/25 - 9/29,1129 RV,44,55,+11.0
+RMG Research*,9/23 - 10/1,3000 RV,51,48,+3.0
+Pew Research,9/22 - 9/28,3445 A,40,58,+18.0
+NY Times/Siena,9/22 - 9/27,1313 RV,43,54,+11.0
+NPR/PBS/Marist,9/22 - 9/26,1329 RV,42,53,+11.0
+Economist/YouGov,9/19 - 9/22,1392 RV,43,55,+12.0
+Quantus Insights,9/19 - 9/21,1000 LV,48,50,+2.0
+Morning Consult,9/19 - 9/21,2201 RV,46,52,+6.0
+Reuters/Ipsos,9/19 - 9/21,1019 A,41,58,+17.0
+RMG Research*,9/17 - 9/24,3000 RV,50,49,+1.0
+Rasmussen Reports,9/17 - 9/23,1500 LV,48,50,+2.0
+Marquette,9/15 - 9/24,1043 A,43,57,+14.0
+Quinnipiac,9/18 - 9/21,1276 RV,38,54,+16.0
+Atlas Intel,9/12 - 9/16,1066 A,47,52,+5.0
+Economist/YouGov,9/12 - 9/15,1420 RV,43,55,+12.0
+Morning Consult,9/12 - 9/14,2204 RV,46,52,+6.0
+RMG Research*,9/10 - 9/17,3000 RV,51,47,+4.0
+Wash Post/Ipsos,9/11 - 9/15, RV,45,55,+10.0
+AP/NORC**,9/11 - 9/15,1183 A,39,60,+21.0
+FOX News,9/6 - 9/9,1004 RV,46,54,+8.0
+Gallup,9/2 - 9/16,1000 A,40,56,+16.0
+RMG Research*,9/3 - 9/11,3000 RV,50,48,+2.0
+Rasmussen Reports,9/4 - 9/10,1500 LV,48,51,+3.0
+Reuters/Ipsos,9/5 - 9/9,1084 A,42,56,+14.0
+Economist/YouGov,9/5 - 9/8,1487 RV,43,54,+11.0
+Morning Consult,9/5 - 9/7,2200 RV,45,52,+7.0
+CBS News,9/3 - 9/5,2385 A,44,56,+12.0
+Economist/YouGov,8/29 - 9/2,1549 RV,44,55,+11.0
+Yahoo News,8/29 - 9/2,1138 RV,42,56,+14.0
+RMG Research*,8/27 - 9/3,3000 RV,50,48,+2.0
+Rasmussen Reports,8/28 - 9/3,1500 LV,48,51,+3.0
+Morning Consult,8/29 - 8/31,2202 RV,46,51,+5.0
+I&amp;I/TIPP,8/27 - 8/29,1362 A,43,47,+4.0
+Daily Mail,8/21 - 9/1,867 RV,55,45,+10.0
+Emerson,8/25 - 8/26,1000 RV,45,47,+2.0
+Quantus Insights,8/25 - 8/26,1000 RV,48,51,+3.0
+RMG Research*,8/21 - 8/28,3000 RV,50,49,+1.0
+Economist/YouGov,8/22 - 8/25,1377 RV,43,55,+12.0
+Morning Consult,8/22 - 8/24,2200 RV,47,51,+4.0
+Rasmussen Reports,8/20 - 8/26,1500 LV,49,50,+1.0
+Reuters/Ipsos,8/22 - 8/24,1022 A,40,54,+14.0
+AP/NORC**,8/21 - 8/25,1182 A,45,53,+8.0
+Quinnipiac,8/21 - 8/25,1220 RV,37,55,+18.0
+Harvard-Harris,8/20 - 8/21,2025 RV,47,49,+2.0
+NBC News Decision Desk,8/13 - 9/1,30196 A,43,57,+14.0
+InsiderAdvantage,8/15 - 8/17,1000 LV,54,44,+10.0
+RMG Research*,8/13 - 8/21,3000 RV,49,48,+1.0
+Morning Consult,8/15 - 8/17,2201 RV,47,51,+4.0
+Economist/YouGov,8/15 - 8/18,1408 RV,43,54,+11.0
+Rasmussen Reports,8/13 - 8/19,1500 LV,49,49,
+Reuters/Ipsos,8/13 - 8/18,4446 A,40,54,+14.0
+Quantus Insights,8/11 - 8/13,1000 RV,47,51,+4.0
+Economist/YouGov,8/9 - 8/11,1474 RV,44,53,+9.0
+RMG Research*,8/6 - 8/14,3000 RV,48,50,+2.0
+Morning Consult,8/8 - 8/10,2200 RV,45,51,+6.0
+Gallup,8/1 - 8/20,1094 A,40,56,+16.0
+Rasmussen Reports,8/6 - 8/12,1500 LV,49,49,
+Pew Research,8/4 - 8/10,3554 A,38,60,+22.0
+Economist/YouGov,8/1 - 8/4,1528 RV,43,55,+12.0
+RMG Research*,7/30 - 8/7,3000 RV,50,49,+1.0
+Morning Consult,8/1 - 8/3,2201 RV,45,52,+7.0
+Rasmussen Reports,7/30 - 8/5,1500 LV,47,51,+4.0
+CNBC,7/29 - 8/3,1000 A,46,51,+5.0
+IBD/TIPP,7/30 - 8/1,1362 RV,45,46,+1.0
+Economist/YouGov,7/25 - 7/28,1610 RV,44,53,+9.0
+Reuters/Ipsos,7/25 - 7/27,1023 A,40,56,+16.0
+RMG Research*,7/23 - 7/31,3000 RV,50,48,+2.0
+Rasmussen Reports,7/23 - 7/29,1500 LV,48,51,+3.0
+Morning Consult,7/25 - 7/27,2203 RV,47,50,+3.0
+Yahoo News,7/24 - 7/28,1168 RV,44,54,+10.0
+Trafalgar/InsiderAdvantage,7/22 - 7/23,1200 LV,50,48,+2.0
+Quantus Insights,7/21 - 7/23,1123 RV,47,50,+3.0
+Daily Mail,7/21 - 7/22,1007 RV,49,51,+2.0
+Emerson,7/21 - 7/22,1400 RV,46,47,+1.0
+Economist/YouGov,7/18 - 7/21,1551 RV,43,56,+13.0
+FOX News,7/18 - 7/21,1000 RV,46,54,+8.0
+RMG Research*,7/16 - 7/24,3000 RV,50,48,+2.0
+Rasmussen Reports,7/16 - 7/22,1500 LV,50,49,+1.0
+Morning Consult,7/18 - 7/20,2202 RV,45,52,+7.0
+Wall Street Journal,7/16 - 7/20,1500 RV,46,52,+6.0
+CBS News,7/16 - 7/18,2343 A,42,58,+16.0
+Reuters/Ipsos,7/15 - 7/16,1027 A,41,54,+13.0
+Quantus Insights,7/14 - 7/16,1000 RV,48,50,+2.0
+Atlas Intel,7/13 - 7/18,1935 A,44,55,+11.0
+Gallup,7/7 - 7/21,1002 A,37,58,+21.0
+Big Data Poll,7/12 - 7/14,3022 RV,48,49,+1.0
+AP/NORC**,7/10 - 7/14,1437 A,40,58,+18.0
+Marquette,7/7 - 7/16,1005 A,45,55,+10.0
+Economist/YouGov,7/11 - 7/14,1506 RV,43,54,+11.0
+RMG Research*,7/9 - 7/16,3000 RV,52,48,+4.0
+Morning Consult,7/11 - 7/13,2201 RV,47,50,+3.0
+Rasmussen Reports,7/9 - 7/15,1500 LV,48,50,+2.0
+Quinnipiac,7/10 - 7/14,1290 RV,40,54,+14.0
+CNN,7/10 - 7/13, RV,44,56,+12.0
+Daily Mail,7/9 - 7/10,1013 RV,48,52,+4.0
+Harvard-Harris,7/6 - 7/8,2044 RV,47,49,+2.0
+Economist/YouGov,7/4 - 7/7,1389 RV,43,54,+11.0
+Morning Consult,7/3 - 7/6,2203 RV,45,52,+7.0
+Rasmussen Reports,7/2 - 7/8,1500 LV,49,49,
+RMG Research*,6/30 - 7/10,3000 RV,50,47,+3.0
+Quantus Insights,6/30 - 7/2,1000 RV,47,49,+2.0
+Economist/YouGov,6/27 - 6/30,1491 RV,45,53,+8.0
+Yahoo News,6/26 - 6/30,1074 RV,45,54,+9.0
+Morning Consult,6/27 - 6/29,2202 RV,47,50,+3.0
+Rasmussen Reports,6/24 - 6/30,1500 LV,51,47,+4.0
+I&amp;I/TIPP,6/25 - 6/27,1421 A,44,45,+1.0
+Emerson,6/24 - 6/25,1000 RV,45,46,+1.0
+NPR/PBS/Marist,6/23 - 6/25,1206 RV,44,53,+9.0
+Quantus Insights,6/23 - 6/25,1000 RV,47,50,+3.0
+Quinnipiac,6/22 - 6/24,979 RV,41,54,+13.0
+RMG Research*,6/18 - 6/26,3000 RV,51,47,+4.0
+Reuters/Ipsos,6/21 - 6/23,1139 A,41,57,+16.0
+Economist/YouGov,6/20 - 6/23,1455 RV,43,54,+11.0
+Morning Consult,6/20 - 6/22,2205 RV,45,53,+8.0
+Rasmussen Reports,6/17 - 6/23,1500 LV,52,47,+5.0
+Trafalgar Group,6/18 - 6/20,1085 LV,54,45,+9.0
+FOX News,6/13 - 6/16,1003 RV,46,54,+8.0
+InsiderAdvantage,6/15 - 6/16,1000 LV,54,44,+10.0
+RMG Research*,6/11 - 6/19,3000 RV,53,46,+7.0
+Economist/YouGov,6/13 - 6/16,1351 RV,44,53,+9.0
+Morning Consult,6/13 - 6/15,2207 RV,46,52,+6.0
+Reuters/Ipsos,6/11 - 6/16,4258 A,42,54,+12.0
+Rasmussen Reports,6/10 - 6/16,1500 LV,52,47,+5.0
+Harvard-Harris,6/11 - 6/12,2097 RV,46,50,+4.0
+Daily Mail,6/10 - 6/11,1807 RV,48,52,+4.0
+Gallup,6/2 - 6/19,1000 A,40,57,+17.0
+Quantus Insights,6/9 - 6/11,1000 RV,48,49,+1.0
+Economist/YouGov,6/6 - 6/9,1397 RV,45,53,+8.0
+Quinnipiac,6/5 - 6/9,1265 RV,38,54,+16.0
+AP/NORC**,6/5 - 6/9,1158 A,39,60,+21.0
+Morning Consult,6/6 - 6/8,1867 RV,47,51,+4.0
+Rasmussen Reports,6/3 - 6/9,1500 LV,51,48,+3.0
+RMG Research*,6/2 - 6/12,3000 RV,52,46,+6.0
+Pew Research,6/2 - 6/8,5044 A,41,58,+17.0
+CBS News,6/4 - 6/6,2428 A,45,55,+10.0
+NBC News Decision Desk,5/30 - 6/10,19410 A,45,55,+10.0
+Daily Mail,6/6 - 6/6,1006 RV,47,53,+6.0
+Quantus Insights,6/1 - 6/4,1000 RV,49,48,+1.0
+Economist/YouGov,5/30 - 6/2,1436 RV,46,51,+5.0
+Trafalgar Group,5/30 - 6/1,1098 LV,54,46,+8.0
+Morning Consult,5/30 - 6/1,2205 RV,46,51,+5.0
+RMG Research*,5/27 - 6/3,3000 RV,51,46,+5.0
+I&amp;I/TIPP,5/28 - 5/30,1395 A,43,45,+2.0
+Rasmussen Reports,5/25 - 5/29,1500 LV,53,46,+7.0
+Economist/YouGov,5/23 - 5/26,1486 RV,46,52,+6.0
+Yahoo News,5/22 - 5/27,1560 A ,41,54,+13.0
+RMG Research*,5/20 - 5/29,3000 RV,49,50,+1.0
+Morning Consult,5/23 - 5/25,2208 RV,48,51,+3.0
+Atlas Intel,5/20 - 5/27,3469 A,45,54,+9.0
+Rasmussen Reports,5/18 - 5/22,1500 LV,50,49,+1.0
+Quantus Insights,5/18 - 5/20,1000 RV,48,48,
+Daily Kos/Civiqs,5/17 - 5/20,1018 RV,47,52,+5.0
+InsiderAdvantage,5/17 - 5/19,1000 LV,55,44,+11.0
+Economist/YouGov,5/16 - 5/19,1558 RV,45,52,+7.0
+Morning Consult,5/16 - 5/18,2200 RV,48,50,+2.0
+Reuters/Ipsos,5/16 - 5/18,1024 A,42,52,+10.0
+RMG Research*,5/14 - 5/21,3000 RV,48,50,+2.0
+Harvard-Harris,5/14 - 5/15,1903 RV,47,48,+1.0
+Daily Mail,5/13 - 5/14,1003 RV,50,50,
+Marquette,5/5 - 5/15,1004 A,46,54,+8.0
+Reuters/Ipsos,5/12 - 5/13,1163 A,44,52,+8.0
+Rasmussen Reports,5/11 - 5/15,1500 LV,51,48,+3.0
+RMG Research*,5/7 - 5/15,3000 RV,52,48,+4.0
+Economist/YouGov,5/9 - 5/12,1610 RV,45,52,+7.0
+Morning Consult,5/9 - 5/11,2221 RV,46,52,+6.0
+Gallup,5/1 - 5/18,1003 A,43,53,+10.0
+Quantus Insights,5/5 - 5/7,1000 RV,48,48,
+Rasmussen Reports,5/4 - 5/8,1500 LV,51,48,+3.0
+Big Data Poll,5/3 - 5/5,3128 RV,48,47,+1.0
+Economist/YouGov,5/2 - 5/5,1693 RV,44,52,+8.0
+Morning Consult,5/2 - 5/4,2263 RV,46,52,+6.0
+AP/NORC,5/1 - 5/5,1175 A,41,57,+16.0
+RMG Research*,4/30 - 5/8,3000 RV,49,49,
+I&amp;I/TIPP,4/30 - 5/2,1400 A,42,47,+5.0
+Trafalgar/InsiderAdvantage,4/30 - 5/1,1200 LV,46,44,+2.0
+Rasmussen Reports,4/27 - 5/1,1500 LV,50,49,+1.0
+Emerson,4/25 - 4/28,1000 RV,45,45,
+Economist/YouGov,4/25 - 4/28,1626 RV,43,54,+11.0
+Yahoo News,4/25 - 4/28,1071 RV,45,53,+8.0
+Reuters/Ipsos,4/25 - 4/27,1029 A,42,53,+11.0
+RMG Research*,4/23 - 5/1,3000 RV,49,48,+1.0
+Daily Mail,4/23 - 4/28,1006 RV,45,55,+10.0
+NewsNation,4/23 - 4/27,1448 RV,44,56,+12.0
+CBS News,4/23 - 4/25,2365 A,45,55,+10.0
+NY Times/Siena,4/21 - 4/24,913 RV,42,54,+12.0
+Quantus Insights,4/21 - 4/23,1000 RV,48,50,+2.0
+NPR/PBS/Marist,4/21 - 4/23,1324 RV,43,53,+10.0
+Rasmussen Reports,4/20 - 4/24,1500 LV,47,51,+4.0
+CNN,4/17 - 4/24, RV,43,57,+14.0
+AP/NORC**,4/17 - 4/21,1260 A,39,59,+20.0
+RMG Research*,4/16 - 4/24,3000 RV,49,48,+1.0
+Economist/YouGov,4/19 - 4/22,1446 RV,44,53,+9.0
+ABC/Wash Post/Ipsos,4/18 - 4/22,1992 RV,42,55,+13.0
+FOX News,4/18 - 4/21,1104 RV,44,55,+11.0
+Morning Consult,4/18 - 4/20,2207 RV,46,52,+6.0
+Reuters/Ipsos,4/16 - 4/21,4306 A,42,53,+11.0
+Rasmussen Reports,4/13 - 4/17,1500 LV,51,47,+4.0
+Economist/YouGov,4/13 - 4/15,1329 RV,45,53,+8.0
+Daily Kos/Civiqs,4/12 - 4/15,1124 RV,46,53,+7.0
+Daily Mail,4/10 - 4/14,1002 RV,54,46,+8.0
+Atlas Intel,4/10 - 4/14,2347 A,46,52,+6.0
+Morning Consult,4/11 - 4/13,2203 RV,45,52,+7.0
+RMG Research*,4/9 - 4/16,3000 RV,48,51,+3.0
+CNBC,4/9 - 4/13,1000 A,44,51,+7.0
+Harvard-Harris,4/9 - 4/10,2286 RV,48,46,+2.0
+CBS News,4/8 - 4/11,2410 A,47,53,+6.0
+Pew Research,4/7 - 4/13,3589 A,40,59,+19.0
+Quantus Insights,4/7 - 4/9,1000 RV,47,50,+3.0
+Gallup,4/1 - 4/14,1006 A,44,53,+9.0
+Rasmussen Reports,4/6 - 4/10,1500 LV,48,50,+2.0
+Economist/YouGov,4/5 - 4/8,1563 RV,45,52,+7.0
+HarrisX,4/4 - 4/7,1883 RV,47,49,+2.0
+Quinnipiac,4/3 - 4/7,1407 RV,41,53,+12.0
+Morning Consult,4/4 - 4/6,2207 RV,46,52,+6.0
+RMG Research*,4/2 - 4/10,3000 RV,49,48,+1.0
+Cygnal,4/1 - 4/3,1500 LV,47,51,+4.0
+Daily Mail,3/31 - 4/3,1000 RV,53,47,+6.0
+Rasmussen Reports,3/30 - 4/3,1500 LV,49,50,+1.0
+Reuters/Ipsos,3/31 - 4/2,1486 A,43,53,+10.0
+Economist/YouGov,3/30 - 4/1,1465 RV,46,51,+5.0
+RMG Research*,3/26 - 4/3,3000 RV,51,47,+4.0
+Wall Street Journal,3/27 - 4/1,1500 RV,46,51,+5.0
+Harvard-Harris,3/26 - 3/27,2746 RV,49,46,+3.0
+CBS News,3/27 - 3/28,2609 A,50,50,
+TIPP,3/26 - 3/28,1452 A,44,45,+1.0
+Daily Mail,3/25 - 3/27,1001 RV,49,51,+2.0
+Quantus Insights,3/25 - 3/27,1000 RV,49,46,+3.0
+Rasmussen Reports,3/23 - 3/27,1500 LV,50,49,+1.0
+Economist/YouGov,3/22 - 3/25,1440 RV,48,50,+2.0
+RMG Research*,3/18 - 3/27,3000 RV,52,45,+7.0
+Marquette,3/17 - 3/27,1021 A,46,54,+8.0
+Reuters/Ipsos,3/21 - 3/23,1030 A,45,51,+6.0
+AP/NORC**,3/20 - 3/24,1229 A,42,56,+14.0
+Rasmussen Reports,3/16 - 3/20,1500 LV,51,47,+4.0
+Economist/YouGov,3/16 - 3/18,1458 RV,47,50,+3.0
+FOX News,3/14 - 3/17,994 RV,49,51,+2.0
+RMG Research*,3/12 - 3/19,3000 RV,53,45,+8.0
+Reuters/Ipsos,3/11 - 3/12,1422 A,44,52,+8.0
+Rasmussen Reports,3/9 - 3/13,1500 LV,52,47,+5.0
+Quantus Insights,3/10 - 3/12,1000 RV,50,47,+3.0
+Economist/YouGov,3/9 - 3/11,1532 RV,48,49,+1.0
+Atlas Intel,3/7 - 3/12,2550 A,47,52,+5.0
+NBC News,3/7 - 3/11,1000 RV,47,51,+4.0
+Emerson,3/8 - 3/10,1000 RV,47,45,+2.0
+Gallup,3/3 - 3/16,1002 A,43,53,+10.0
+RMG Research*,3/6 - 3/13,3000 RV,54,44,+10.0
+Quinnipiac,3/6 - 3/10,1198 RV,42,53,+11.0
+CNN,3/6 - 3/9, RV,46,53,+7.0
+Daily Mail,3/5 - 3/7,1019 RV,49,51,+2.0
+Trafalgar/InsiderAdvantage,3/5 - 3/5,800 RV,50,45,+5.0
+Rasmussen Reports,3/2 - 3/6,1500 LV,50,48,+2.0
+Reuters/Ipsos,3/3 - 3/4,1174 A,44,51,+7.0
+Economist/YouGov,3/1 - 3/4,1491 RV,49,49,
+Emerson,3/2 - 3/3,1000 RV,48,43,+5.0
+Daily Kos/Civiqs,2/28 - 3/3,1031 RV,48,52,+4.0
+CBS News,2/26 - 2/28,2311 A,51,49,+2.0
+I&amp;I/TIPP,2/26 - 2/28,1434 A,46,43,+3.0
+RMG Research*,2/24 - 2/28,3000 RV,53,45,+8.0
+CNN,2/24 - 2/28, RV,48,52,+4.0
+Atlas Intel,2/24 - 2/27,2849 A,50,50,
+Rasmussen Reports,2/23 - 2/27,1500 LV,50,48,+2.0
+Quantus Insights,2/24 - 2/26,1000 RV,51,45,+6.0
+NPR/PBS/Marist,2/24 - 2/26,1533 RV,45,51,+6.0
+Daily Mail,2/24 - 2/25,1001 RV,54,46,+8.0
+Economist/YouGov,2/23 - 2/25,1444 RV,48,47,+1.0
+Morning Consult,2/21 - 2/24,2225 RV,50,47,+3.0
+Reuters/Ipsos,2/21 - 2/23,1029 A,44,50,+6.0
+RMG Research*,2/18 - 2/21,3000 RV,53,44,+9.0
+Harvard-Harris,2/19 - 2/20,2443 RV,52,43,+9.0
+Rasmussen Reports,2/16 - 2/20,1500 LV,51,47,+4.0
+Economist/YouGov,2/16 - 2/18,1451 RV,50,47,+3.0
+Emerson,2/15 - 2/17,1000 RV,48,42,+6.0
+Wash Post/Ipsos,2/13 - 2/18,2177 RV,48,51,+3.0
+Reuters/Ipsos,2/13 - 2/18,4145 A,44,51,+7.0
+Quinnipiac,2/13 - 2/17,1039 RV,45,49,+4.0
+CNN,2/13 - 2/17, RV,46,54,+8.0
+SurveyUSA,2/13 - 2/16,2000 A,51,45,+6.0
+RMG Research*,2/10 - 2/14,3000 RV,55,43,+12.0
+Quantus Insights,2/10 - 2/12,1000 RV,53,44,+9.0
+Economist/YouGov,2/9 - 2/11,1430 RV,47,49,+2.0
+Rasmussen Reports,2/9 - 2/13,1500 LV,54,44,+10.0
+Gallup,2/3 - 2/16,1004 A,45,51,+6.0
+Trafalgar/InsiderAdvantage,2/7 - 2/9,1321 RV,54,45,+9.0
+CBS News,2/5 - 2/7,2175 A,53,47,+6.0
+RMG Research*,2/3 - 2/6,3000 RV,51,45,+6.0
+Cygnal,2/4 - 2/5,1500 LV,50,48,+2.0
+Economist/YouGov,2/2 - 2/4,1423 RV,48,47,+1.0
+Quantus Insights,2/1 - 2/3,1000 RV,52,45,+7.0
+Morning Consult,1/31 - 2/3,2303 RV,49,47,+2.0
+Rasmussen Reports,2/2 - 2/6,1500 LV,51,45,+6.0
+Marquette,1/27 - 2/5,1063 A,48,52,+4.0
+Pew Research,1/27 - 2/5,5086 A,47,51,+4.0
+TIPP,1/29 - 1/31,1478 A,46,41,+5.0
+Fabrizio/Anzalone,1/27 - 2/1,3000 RV,48,47,+1.0
+RMG Research*,1/27 - 1/31,4000 RV,53,43,+10.0
+Rasmussen Reports,1/26 - 1/30,1500 LV,52,45,+7.0
+Emerson,1/27 - 1/28,1000 RV,49,41,+8.0
+Economist/YouGov,1/26 - 1/28,1376 RV,50,46,+4.0
+Quinnipiac,1/23 - 1/27,1019 RV,46,43,+3.0
+Morning Consult,1/24 - 1/26,2302 RV,52,44,+8.0
+Reuters/Ipsos,1/24 - 1/26,1034 A,45,46,+1.0
+Gallup,1/21 - 1/27,1001 A,47,48,+1.0
+Quantus Insights,1/22 - 1/23,1000 RV,54,40,+14.0
+RMG Research*,1/22 - 1/23,3000 RV,57,39,+18.0
+Atlas Intel,1/21 - 1/23,1882 A,50,50,
+Rasmussen Reports,1/20 - 1/23,1667 LV,53,42,+11.0
+Reuters/Ipsos,1/20 - 1/21,1077 A,47,41,+6.0
+Big Data Poll,1/19 - 1/22,2979 RV,56,37,+19.0
+InsiderAdvantage,1/20 - 1/20,800 RV,56,39,+17.0
+rcp_average,1/9 - 1/19,,41.1,56.1,+15.0
+Economist/YouGov,1/16 - 1/19,1291 RV,44,55,+11.0
+Rasmussen Reports,1/14 - 1/18,1500 LV,51,48,+3.0
+Politico/Morning Consult,1/15 - 1/17,1993 RV,39,58,+19.0
+Quinnipiac,1/15 - 1/17,1131 RV,34,61,+27.0
+USA Today/Suffolk,1/12 - 1/15,1000 RV,41,54,+13.0
+Harvard-Harris,1/12 - 1/14,2006 RV,47,53,+6.0
+NPR/PBS/Marist,1/11 - 1/13,1012 RV,40,55,+15.0
+NBC News/Wall St. Jrnl,1/10 - 1/13,1000 RV,43,55,+12.0
+ABC News/Wash Post,1/10 - 1/13,1002 A,38,60,+22.0
+CNN,1/9 - 1/14,1003 A,34,62,+28.0
+Economist/YouGov,1/10 - 1/12,1293 RV,41,55,+14.0
+Reuters/Ipsos,1/8 - 1/12,1163 RV,35,63,+28.0
+The Hill/HarrisX,1/8 - 1/11,2854 RV,44,56,+12.0
+Politico/Morning Consult,1/8 - 1/11,1996 RV,34,63,+29.0
+Gallup,1/4 - 1/15,1023 A,34,62,+28.0
+Quinnipiac,1/7 - 1/10,1239 RV,33,60,+27.0
+IBD/TIPP,1/6 - 1/8,1163 RV,42,52,+10.0
+NPR/PBS/Marist,1/7 - 1/7,831 RV,39,58,+19.0
+Politico/Morning Consult,1/6 - 1/7,1986 RV,38,60,+22.0
+Reuters/Ipsos,1/4 - 1/5,1133 RV,40,58,+18.0
+Economist/YouGov,1/3 - 1/5,1278 RV,43,55,+12.0
+The Hill/HarrisX,12/30 - 1/3,3787 RV,50,50,
+Economist/YouGov,12/19 - 12/22,1157 RV,43,52,+9.0
+Reuters/Ipsos,12/18 - 12/22,1126 RV,40,57,+17.0
+Politico/Morning Consult,12/18 - 12/20,1995 RV,41,57,+16.0
+USA Today/Suffolk,12/16 - 12/20,1000 RV,45,52,+7.0
+Economist/YouGov,12/13 - 12/15,1090 RV,44,53,+9.0
+Reuters/Ipsos,12/11 - 12/14,1113 RV,42,56,+14.0
+Politico/Morning Consult,12/11 - 12/14,1990 RV,41,57,+16.0
+Gallup,12/1 - 12/17,1018 A,39,57,+18.0
+FOX News,12/6 - 12/9,1007 RV,47,52,+5.0
+Economist/YouGov,12/6 - 12/8,912 RV,45,52,+7.0
+Emerson,12/6 - 12/7,1277 RV,46,48,+2.0
+The Hill/HarrisX,12/3 - 12/7,3785 RV,49,51,+2.0
+Reuters/Ipsos,12/2 - 12/8,3812 RV,42,56,+14.0
+Politico/Morning Consult,12/4 - 12/6,1990 RV,40,58,+18.0
+Quinnipiac,12/1 - 12/7,978 RV,44,51,+7.0
+NPR/PBS/Marist,12/1 - 12/6,916 RV,42,54,+12.0
+Reuters/Ipsos,11/30 - 12/1,958 RV,37,62,+25.0
+The Hill/HarrisX,11/27 - 11/30,2825 RV,50,50,
+Economist/YouGov,11/21 - 11/24,1500 RV,43,55,+12.0
+Politico/Morning Consult,11/21 - 11/23,1990 RV,43,55,+12.0
+Harvard-Harris,11/17 - 11/19,2205 RV,51,49,+2.0
+Economist/YouGov,11/15 - 11/17,1500 RV,43,51,+8.0
+Reuters/Ipsos,11/13 - 11/17,1121 RV,38,59,+21.0
+Politico/Morning Consult,11/13 - 11/16,1994 RV,42,56,+14.0
+Monmouth,11/12 - 11/16,749 RV,46,51,+5.0
+Economist/YouGov,11/8 - 11/10,1500 RV,46,51,+5.0
+Reuters/Ipsos,11/6 - 11/10,1169 RV,40,57,+17.0
+The Hill/HarrisX,11/2 - 11/4,2987 RV,48,52,+4.0
+Economist/YouGov,10/31 - 11/2,1363 LV,45,54,+9.0
+Reuters/Ipsos,10/29 - 11/2,1146 RV,42,54,+12.0
+NBC News/Wall St. Jrnl,10/29 - 10/31,1000 RV,45,52,+7.0
+FOX News,10/27 - 10/29,1246 LV,46,54,+8.0
+Harvard-Harris,10/27 - 10/28,2093 RV,46,54,+8.0
+The Hill/HarrisX,10/25 - 10/28,2359 LV,49,51,+2.0
+Economist/YouGov,10/25 - 10/27,1365 LV,42,56,+14.0
+Emerson,10/25 - 10/26,1121 LV,45,51,+6.0
+Reuters/Ipsos,10/23 - 10/27,1110 RV,42,57,+15.0
+USA Today/Suffolk,10/23 - 10/27,1000 LV,44,53,+9.0
+Gallup,10/16 - 10/27,833 LV,44,55,+11.0
+CNN,10/23 - 10/26,886 LV,42,56,+14.0
+CNBC,10/21 - 10/24,800 RV,42,53,+11.0
+Politico/Morning Consult,10/19 - 10/22,1994 RV,45,53,+8.0
+Economist/YouGov,10/18 - 10/20,1344 LV,45,54,+9.0
+CNBC/Change Research (D),10/17 - 10/18,2711 LV,44,56,+12.0
+Reuters/Ipsos,10/16 - 10/20,1158 RV,42,58,+16.0
+Quinnipiac,10/16 - 10/19,1426 LV,41,55,+14.0
+Politico/Morning Consult,10/16 - 10/18,1994 RV,43,55,+12.0
+NY Times/Siena,10/15 - 10/18,987 LV,43,51,+8.0
+Economist/YouGov,10/11 - 10/13,1333 LV,42,57,+15.0
+The Hill/HarrisX,10/10 - 10/13,2855 RV,46,54,+8.0
+Reuters/Ipsos,10/9 - 10/13,1120 RV,43,53,+10.0
+NBC News/Wall St. Jrnl,10/9 - 10/12,1000 RV,44,54,+10.0
+NPR/PBS/Marist,10/8 - 10/13,819 LV,43,54,+11.0
+Politico/Morning Consult,10/9 - 10/11,1986 RV,45,54,+9.0
+Gallup,9/30 - 10/15,1035 A,43,55,+12.0
+ABC News/Wash Post,10/6 - 10/9,725 LV,45,55,+10.0
+Economist/YouGov,10/4 - 10/6,1364 LV,43,55,+12.0
+FOX News,10/3 - 10/6,1012 LV,47,52,+5.0
+The Hill/HarrisX,10/3 - 10/6,2841 RV,46,54,+8.0
+Reuters/Ipsos,10/2 - 10/6,1123 RV,42,55,+13.0
+CNBC/Change Research (D),10/2 - 10/4,2167 LV,45,55,+10.0
+Politico/Morning Consult,10/2 - 10/4,1990 RV,45,54,+9.0
+CNN,10/1 - 10/4,1001 RV,40,57,+17.0
+IBD/TIPP,9/30 - 10/1,1221 RV,46,49,+3.0
+NBC News/Wall St. Jrnl,9/30 - 10/1,800 RV,43,55,+12.0
+Economist/YouGov,9/27 - 9/30,1350 LV,45,55,+10.0
+Reuters/Ipsos,9/25 - 9/29,864 LV,44,55,+11.0
+NY Times/Siena,9/22 - 9/24,950 LV,46,50,+4.0
+Harvard-Harris,9/22 - 9/24,1314 RV,47,53,+6.0
+Emerson,9/22 - 9/23,1000 LV,46,50,+4.0
+ABC News/Wash Post,9/21 - 9/24,889 RV,44,55,+11.0
+Gallup,9/14 - 9/28,1023 A,46,52,+6.0
+Economist/YouGov,9/20 - 9/22,1124 LV,45,53,+8.0
+Reuters/Ipsos,9/18 - 9/22,1160 RV,43,54,+11.0
+The Hill/HarrisX,9/18 - 9/21,2804 RV,48,52,+4.0
+Quinnipiac,9/17 - 9/21,1302 LV,43,53,+10.0
+CNBC/Change Research (D),9/18 - 9/20,1430 LV,43,57,+14.0
+Politico/Morning Consult,9/18 - 9/20,1989 RV,43,56,+13.0
+NBC News/Wall St. Jrnl,9/13 - 9/16,1000 RV,45,53,+8.0
+Economist/YouGov,9/13 - 9/15,1062 LV,45,54,+9.0
+NPR/PBS/Marist,9/11 - 9/16,723 LV,43,53,+10.0
+Reuters/Ipsos,9/11 - 9/15,1133 RV,42,56,+14.0
+Politico/Morning Consult,9/11 - 9/14,1991 RV,38,60,+22.0
+FOX News,9/7 - 9/10,1191 LV,48,51,+3.0
+Economist/YouGov,9/6 - 9/8,1057 LV,43,57,+14.0
+The Hill/HarrisX,9/5 - 9/8,2832 RV,47,53,+6.0
+Gallup,8/31 - 9/13,1019 A,42,56,+14.0
+CNBC/Change Research (D),9/4 - 9/6,1902 LV,45,55,+10.0
+Reuters/Ipsos,9/3 - 9/8,1107 RV,40,57,+17.0
+Monmouth,9/3 - 9/8,758 RV,42,55,+13.0
+Harvard-Harris,8/31 - 9/2,1604 RV,46,54,+8.0
+Economist/YouGov,8/30 - 9/1,1207 RV,43,55,+12.0
+Emerson,8/30 - 8/31,1567 LV,49,47,+2.0
+IBD/TIPP,8/29 - 9/1,1033 RV,39,55,+16.0
+Reuters/Ipsos,8/28 - 9/1,1089 RV,44,54,+10.0
+CNN,8/28 - 9/1,997 RV,41,54,+13.0
+USA Today/Suffolk,8/28 - 8/31,1000 RV,45,52,+7.0
+Quinnipiac,8/28 - 8/31,1081 LV,43,54,+11.0
+Politico/Morning Consult,8/28 - 8/30,1988 RV,42,57,+15.0
+Grinnell/Selzer,8/26 - 8/30,827 LV,43,51,+8.0
+Economist/YouGov,8/23 - 8/25,1256 RV,45,54,+9.0
+The Hill/HarrisX,8/22 - 8/25,2861 RV,44,56,+12.0
+Reuters/Ipsos,8/19 - 8/25,3829 RV,43,55,+12.0
+CNBC/Change Research (D),8/21 - 8/23,2362 LV,45,55,+10.0
+Politico/Morning Consult,8/21 - 8/23,1992 RV,42,56,+14.0
+Economist/YouGov,8/16 - 8/18,1246 RV,43,54,+11.0
+Reuters/Ipsos,8/14 - 8/18,1179 RV,42,56,+14.0
+Politico/Morning Consult,8/14 - 8/16,1994 RV,39,59,+20.0
+CNN,8/12 - 8/15,987 RV,43,54,+11.0
+ABC News/Wash Post,8/12 - 8/15,868 RV,42,57,+15.0
+NBC News/Wall St. Jrnl,8/9 - 8/12,900 RV,44,53,+9.0
+FOX News,8/9 - 8/12,1000 RV,44,54,+10.0
+Reuters/Ipsos,8/10 - 8/11,1034 RV,41,57,+16.0
+Economist/YouGov,8/9 - 8/11,1208 RV,44,54,+10.0
+The Hill/HarrisX,8/8 - 8/11,2828 RV,45,55,+10.0
+Politico/Morning Consult,8/9 - 8/10,1983 RV,41,58,+17.0
+CNBC/Change Research (D)*,8/7 - 8/9,2143 LV,46,54,+8.0
+Monmouth,8/6 - 8/10,785 RV,42,53,+11.0
+Gallup,7/30 - 8/12,1031 A,42,55,+13.0
+NPR/PBS/Marist,8/3 - 8/11,1108 RV,39,54,+15.0
+Reuters/Ipsos,8/3 - 8/4,964 RV,40,59,+19.0
+GU Politics/Battleground,8/1 - 8/6,1000 LV,42,55,+13.0
+Economist/YouGov,8/2 - 8/4,1229 RV,42,56,+14.0
+Politico/Morning Consult,7/31 - 8/2,1991 RV,40,58,+18.0
+Emerson,7/29 - 7/30,964 LV,45,51,+6.0
+Reuters/Ipsos,7/27 - 7/28,947 RV,40,58,+18.0
+Economist/YouGov,7/26 - 7/28,1260 RV,44,53,+9.0
+IBD/TIPP,7/25 - 7/28,1160 RV,41,52,+11.0
+The Hill/HarrisX,7/24 - 7/26,2842 RV,44,56,+12.0
+CNBC/Change Research (D),7/24 - 7/26,1039 LV,44,56,+12.0
+Politico/Morning Consult,7/24 - 7/26,1997 RV,40,57,+17.0
+Harvard-Harris,7/21 - 7/23,1932 RV,44,56,+12.0
+Economist/YouGov,7/19 - 7/21,1222 RV,42,56,+14.0
+Reuters/Ipsos,7/15 - 7/21,3744 RV,40,58,+18.0
+Politico/Morning Consult,7/17 - 7/19,1991 RV,40,57,+17.0
+FOX News,7/12 - 7/15,1104 RV,45,54,+9.0
+ABC News/Wash Post,7/12 - 7/15,845 RV,40,58,+18.0
+Reuters/Ipsos,7/13 - 7/14,961 RV,40,56,+16.0
+Rasmussen Reports,7/12 - 7/14,1500 LV,48,50,+2.0
+Economist/YouGov,7/12 - 7/14,1252 RV,41,56,+15.0
+Gallup,7/1 - 7/23,1007 A,41,56,+15.0
+CNBC/Change Research (D),7/10 - 7/12,1258 LV,43,57,+14.0
+Politico/Morning Consult,7/10 - 7/12,1992 RV,41,56,+15.0
+Quinnipiac,7/9 - 7/13,1273 RV,36,60,+24.0
+NBC News/Wall St. Jrnl,7/9 - 7/12,900 RV,42,56,+14.0
+The Hill/HarrisX,7/7 - 7/10,2841 RV,45,55,+10.0
+Reuters/Ipsos,7/6 - 7/7,952 RV,40,57,+17.0
+Rasmussen Reports,7/5 - 7/7,1500 LV,44,54,+10.0
+Economist/YouGov,7/5 - 7/7,1165 RV,42,57,+15.0
+Reuters/Ipsos,6/29 - 6/30,943 RV,41,57,+16.0
+Economist/YouGov,6/28 - 6/30,1198 RV,42,57,+15.0
+IBD/TIPP,6/27 - 6/30,1005 RV,39,56,+17.0
+Monmouth,6/26 - 6/30,733 RV,41,54,+13.0
+CNBC/Change Research (D),6/26 - 6/28,1663 LV,43,57,+14.0
+Politico/Morning Consult,6/26 - 6/29,1984 RV,39,59,+20.0
+Rasmussen Reports,6/28 - 6/30,1500 LV,44,54,+10.0
+USA Today/Suffolk,6/25 - 6/29,1000 RV,40,58,+18.0
+NPR/PBS/Marist,6/22 - 6/24,1515 RV,41,57,+16.0
+The Hill/HarrisX,6/22 - 6/23,951 RV,46,54,+8.0
+Reuters/Ipsos,6/22 - 6/23,934 RV,39,59,+20.0
+Economist/YouGov,6/21 - 6/23,1230 RV,43,55,+12.0
+CNBC,6/19 - 6/22,800 RV,39,52,+13.0
+Politico/Morning Consult,6/19 - 6/21,1988 RV,39,58,+19.0
+Rasmussen Reports,6/21 - 6/23,1500 LV,47,52,+5.0
+NY Times/Siena,6/17 - 6/22,1337 RV,41,56,+15.0
+Gallup,6/8 - 6/30,1016 A,38,57,+19.0
+Harvard-Harris,6/17 - 6/18,1886 RV,43,57,+14.0
+Economist/YouGov,6/14 - 6/16,1160 RV,42,55,+13.0
+FOX News,6/13 - 6/16,1343 RV,44,55,+11.0
+Quinnipiac,6/11 - 6/15,1332 RV,42,55,+13.0
+Rasmussen Reports,6/14 - 6/16,1500 LV,46,53,+7.0
+CNBC/Change Research (D),6/12 - 6/14,1250 LV,43,57,+14.0
+Politico/Morning Consult,6/12 - 6/14,1987 RV,40,57,+17.0
+Reuters/Ipsos,6/10 - 6/16,3768 RV,39,58,+19.0
+The Hill/HarrisX,6/8 - 6/10,1912 RV,47,53,+6.0
+Rasmussen Reports,6/8 - 6/10,1500 LV,43,56,+13.0
+Reuters/Ipsos,6/8 - 6/9,931 RV,42,57,+15.0
+Economist/YouGov,6/7 - 6/9,1241 RV,43,56,+13.0
+Politico/Morning Consult,6/6 - 6/7,1992 RV,39,58,+19.0
+CNN,6/2 - 6/5,1125 RV,40,57,+17.0
+Emerson,6/2 - 6/3,1431 RV,43,50,+7.0
+The Hill/HarrisX,6/1 - 6/4,2827 RV,44,56,+12.0
+NPR/PBS/Marist,6/2 - 6/3,958 RV,42,55,+13.0
+IBD/TIPP,5/31 - 6/3,964 RV,42,52,+10.0
+Gallup,5/28 - 6/4,1034 A,39,57,+18.0
+Rasmussen Reports,6/1 - 6/3,1500 LV,46,52,+6.0
+Reuters/Ipsos,6/1 - 6/2,964 RV,40,57,+17.0
+Economist/YouGov,5/31 - 6/2,1244 RV,43,55,+12.0
+CBS News,5/29 - 6/2,1309 A,40,54,+14.0
+NBC News/Wall St. Jrnl,5/28 - 6/2,1000 RV,45,53,+8.0
+Politico/Morning Consult,5/29 - 6/1,1981 RV,41,55,+14.0
+CNBC,5/29 - 5/31,1457 LV,44,56,+12.0
+Monmouth,5/28 - 6/1,742 RV,43,54,+11.0
+ABC News/Wash Post,5/25 - 5/28,835 RV,45,53,+8.0
+Rasmussen Reports,5/25 - 5/27,1500 LV,45,54,+9.0
+Economist/YouGov,5/23 - 5/26,1157 RV,45,53,+8.0
+Politico/Morning Consult,5/22 - 5/26,1986 RV,40,57,+17.0
+Reuters/Ipsos,5/20 - 5/27,3732 RV,43,55,+12.0
+FOX News,5/17 - 5/20,1207 RV,44,54,+10.0
+Reuters/Ipsos,5/18 - 5/19,957 RV,42,55,+13.0
+Economist/YouGov,5/17 - 5/19,1235 RV,46,52,+6.0
+Rasmussen Reports,5/18 - 5/20,1500 LV,45,54,+9.0
+Politico/Morning Consult,5/15 - 5/18,1994 RV,41,55,+14.0
+CNBC,5/15 - 5/17,1424 LV,46,54,+8.0
+Quinnipiac,5/14 - 5/18,1323 RV,42,53,+11.0
+Harvard-Harris,5/13 - 5/14,1854 RV,47,53,+6.0
+The Hill/HarrisX,5/13 - 5/14,950 RV,50,50,
+Reuters/Ipsos,5/11 - 5/12,973 RV,41,57,+16.0
+Rasmussen Reports,5/11 - 5/13,1500 LV,48,51,+3.0
+Economist/YouGov,5/10 - 5/12,1175 RV,47,51,+4.0
+CNN,5/7 - 5/10,1001 RV,46,51,+5.0
+Politico/Morning Consult,5/8 - 5/10,1994 RV,42,52,+10.0
+Gallup,5/1 - 5/13,1028 A,49,48,+1.0
+The Hill/HarrisX,5/6 - 5/6,957 RV,51,49,+2.0
+Reuters/Ipsos,5/4 - 5/5,1015 RV,45,53,+8.0
+Economist/YouGov,5/3 - 5/5,1209 RV,46,51,+5.0
+Rasmussen Reports,5/4 - 5/6,1500 LV,49,48,+1.0
+Politico/Morning Consult,5/2 - 5/3,1987 RV,42,52,+10.0
+CNBC,5/1 - 5/3,1489 LV,46,54,+8.0
+Monmouth,4/30 - 5/4,739 RV,44,51,+7.0
+Reuters/Ipsos,4/27 - 4/29,1876 RV,43,54,+11.0
+IBD/TIPP,4/26 - 4/29,1225 A,44,44,
+Emerson,4/26 - 4/28,1200 RV,41,50,+9.0
+Rasmussen Reports,4/27 - 4/29,1500 LV,46,52,+6.0
+Economist/YouGov,4/26 - 4/28,1222 RV,44,53,+9.0
+Politico/Morning Consult,4/24 - 4/26,1991 RV,44,52,+8.0
+Gallup,4/14 - 4/28,1500 A,49,47,+2.0
+USA Today/Suffolk,4/21 - 4/25,1000 RV,43,53,+10.0
+Rasmussen Reports,4/20 - 4/22,1500 LV,44,55,+11.0
+Economist/YouGov,4/19 - 4/21,1144 RV,46,51,+5.0
+The Hill/HarrisX,4/19 - 4/20,958 RV,50,50,
+Politico/Morning Consult,4/18 - 4/19,1991 RV,44,51,+7.0
+Reuters/Ipsos,4/15 - 4/21,3806 RV,43,54,+11.0
+Harvard-Harris,4/14 - 4/16,2394 RV,49,51,+2.0
+NBC News/Wall St. Jrnl,4/13 - 4/15,900 RV,46,51,+5.0
+Reuters/Ipsos,4/13 - 4/14,937 RV,46,51,+5.0
+Economist/YouGov,4/12 - 4/14,1166 RV,45,53,+8.0
+Rasmussen Reports,4/13 - 4/15,1500 LV,46,53,+7.0
+The Hill/HarrisX,4/10 - 4/13,2854 RV,48,52,+4.0
+Politico/Morning Consult,4/10 - 4/12,1990 RV,45,52,+7.0
+Gallup,4/1 - 4/14,1017 A,43,54,+11.0
+Reuters/Ipsos,4/6 - 4/7,959 RV,42,55,+13.0
+Economist/YouGov,4/5 - 4/7,1147 RV,45,53,+8.0
+Rasmussen Reports,4/6 - 4/8,1500 LV,46,52,+6.0
+FOX News,4/4 - 4/7,1107 RV,49,49,
+Monmouth,4/3 - 4/7,743 RV,46,49,+3.0
+CNBC,4/3 - 4/6,804 A,46,43,+3.0
+CNN,4/3 - 4/6,875 RV,44,53,+9.0
+Quinnipiac,4/2 - 4/6,2077 RV,45,51,+6.0
+Politico/Morning Consult,4/3 - 4/5,1990 RV,44,54,+10.0
+IBD/TIPP,3/29 - 4/1,1226 A,45,45,
+Reuters/Ipsos,3/30 - 3/31,930 RV,46,52,+6.0
+Rasmussen Reports,3/30 - 4/1,1500 LV,48,50,+2.0
+Economist/YouGov,3/29 - 3/31,1194 RV,47,50,+3.0
+Grinnell/Selzer,3/27 - 3/30,777 LV,48,48,
+Politico/Morning Consult,3/27 - 3/29,1997 RV,45,52,+7.0
+Harvard-Harris,3/24 - 3/26,2410 RV,48,52,+4.0
+ABC News/Wash Post,3/22 - 3/25,845 RV,49,47,+2.0
+FOX News,3/21 - 3/24,1011 RV,48,51,+3.0
+Economist/YouGov,3/22 - 3/24,1170 RV,47,51,+4.0
+Rasmussen Reports,3/23 - 3/25,1500 LV,46,52,+6.0
+The Hill/HarrisX,3/22 - 3/23,1002 RV,50,50,
+Reuters/Ipsos,3/18 - 3/24,3763 RV,45,52,+7.0
+Politico/Morning Consult,3/20 - 3/22,1996 RV,45,52,+7.0
+Monmouth,3/18 - 3/22,754 RV,48,48,
+Emerson,3/18 - 3/19,1100 RV,46,45,+1.0
+Gallup,3/13 - 3/22,1020 A,49,45,+4.0
+Reuters/Ipsos,3/16 - 3/17,978 RV,43,54,+11.0
+Rasmussen Reports,3/16 - 3/18,1500 LV,47,52,+5.0
+Economist/YouGov,3/15 - 3/17,1129 RV,44,54,+10.0
+Politico/Morning Consult,3/13 - 3/16,1986 RV,43,54,+11.0
+NPR/PBS/Marist,3/13 - 3/14,784 RV,43,50,+7.0
+NBC News/Wall St. Jrnl,3/11 - 3/13,900 RV,46,51,+5.0
+Reuters/Ipsos,3/9 - 3/10,961 RV,42,54,+12.0
+Economist/YouGov,3/8 - 3/10,1191 RV,45,52,+7.0
+The Hill/HarrisX,3/8 - 3/9,1001 RV,46,54,+8.0
+Gallup,3/2 - 3/13,1019 A,44,52,+8.0
+Politico/Morning Consult,3/6 - 3/8,1992 RV,44,53,+9.0
+Rasmussen Reports,3/9 - 3/11,1500 LV,48,50,+2.0
+Quinnipiac,3/5 - 3/8,1261 RV,41,54,+13.0
+CNN,3/4 - 3/7,1084 RV,45,52,+7.0
+Reuters/Ipsos,3/2 - 3/3,943 RV,44,54,+10.0
+Rasmussen Reports,3/2 - 3/4,1500 LV,48,50,+2.0
+Economist/YouGov,3/1 - 3/3,1134 RV,44,53,+9.0
+Politico/Morning Consult,2/28 - 3/1,1992 RV,44,53,+9.0
+Harvard-Harris,2/26 - 2/28,2592 RV,47,53,+6.0
+FOX News,2/23 - 2/26,1000 RV,47,52,+5.0
+Economist/YouGov,2/23 - 2/25,1184 RV,44,53,+9.0
+IBD/TIPP,2/20 - 2/29,901 A,41,54,+13.0
+Rasmussen Reports,2/24 - 2/26,1500 LV,52,47,+5.0
+Gallup,2/17 - 2/28,1020 A,47,51,+4.0
+Reuters/Ipsos,2/19 - 2/25,3809 RV,43,55,+12.0
+Politico/Morning Consult,2/21 - 2/23,1992 RV,45,52,+7.0
+Reuters/Ipsos,2/18 - 2/19,951 RV,43,55,+12.0
+Emerson,2/16 - 2/18,1250 RV,48,44,+4.0
+Economist/YouGov,2/16 - 2/18,1150 RV,43,54,+11.0
+Politico/Morning Consult,2/15 - 2/17,1990 RV,42,54,+12.0
+Rasmussen Reports,2/17 - 2/19,1500 LV,49,50,+1.0
+ABC News/Wash Post,2/14 - 2/17,913 RV,46,52,+6.0
+NBC News/Wall St. Jrnl,2/14 - 2/17,900 RV,47,50,+3.0
+The Hill/HarrisX,2/14 - 2/15,1001 RV,49,51,+2.0
+NPR/PBS/Marist,2/13 - 2/16,1164 RV,44,51,+7.0
+Reuters/Ipsos,2/10 - 2/11,959 RV,44,55,+11.0
+Rasmussen Reports,2/10 - 2/12,1500 LV,50,49,+1.0
+Economist/YouGov,2/9 - 2/11,1140 RV,45,52,+7.0
+Gallup,2/3 - 2/16,1028 A,49,48,+1.0
+Politico/Morning Consult,2/7 - 1/9,1996 RV,43,54,+11.0
+Monmouth,2/6 - 2/9,827 RV,44,51,+7.0
+Quinnipiac,2/5 - 2/9,1519 RV,43,53,+10.0
+The Hill/HarrisX,2/6 - 2/7,1000 RV,49,51,+2.0
+Reuters/Ipsos,2/3 - 2/4,932 RV,42,55,+13.0
+Economist/YouGov,2/2 - 2/4,1277 RV,44,54,+10.0
+Harvard-Harris,1/27 - 1/29,2527 RV,46,54,+8.0
+NBC News/Wall St. Jrnl,1/26 - 1/29,1000 RV,46,51,+5.0
+CBS News,1/26 - 1/29,1202 A,43,51,+8.0
+Reuters/Ipsos,1/27 - 1/28,950 RV,41,56,+15.0
+IBD/TIPP,1/23 - 1/30,908 A,44,51,+7.0
+Economist/YouGov,1/26 - 1/28,1182 RV,44,53,+9.0
+Gallup,1/16 - 1/29,1033 A,49,50,+1.0
+Rasmussen Reports,1/26 - 1/28,1500 LV,49,51,+2.0
+Quinnipiac,1/22 - 1/27,1095 RV,43,52,+9.0
+Politico/Morning Consult,1/24 - 1/26,1992 RV,41,55,+14.0
+Emerson,1/21 - 1/23,1128 RV,47,48,+1.0
+ABC News/Wash Post,1/20 - 1/23,880 RV,47,50,+3.0
+FOX News,1/19 - 1/22,1005 RV,45,54,+9.0
+Reuters/Ipsos,1/21 - 1/22,899 RV,42,56,+14.0
+Economist/YouGov,1/19 - 1/21,1176 RV,47,51,+4.0
+Politico/Morning Consult,1/17 - 1/19,1997 RV,43,53,+10.0
+Monmouth,1/16 - 1/20,847 RV,43,52,+9.0
+CNN,1/16 - 1/19,1051 RV,45,51,+6.0
+The Hill/HarrisX,1/13 - 1/14,1001 RV,47,53,+6.0
+Reuters/Ipsos,1/13 - 1/14,919 RV,41,56,+15.0
+Rasmussen Reports,1/14 - 1/16,1500 LV,49,50,+1.0
+Economist/YouGov,1/11 - 1/14,1108 RV,46,50,+4.0
+Politico/Morning Consult,1/10 - 1/12,1996 RV,43,54,+11.0
+Quinnipiac,1/8 - 1/12,1562 RV,43,52,+9.0
+NPR/PBS/Marist,1/7 - 1/12,1064 RV,42,53,+11.0
+Gallup,1/2 - 1/15,1014 A,44,54,+10.0
+IBD/TIPP,1/3 - 1/11,901 A,43,51,+8.0
+Reuters/Ipsos,1/6 - 1/7,957 RV,43,54,+11.0
+Economist/YouGov,1/5 - 1/7,1185 RV,43,54,+11.0
+Rasmussen Reports,1/5 - 1/7,1500 LV,46,53,+7.0
+The Hill/HarrisX,1/3 - 1/4,1001 RV,47,53,+6.0
+Politico/Morning Consult,1/4 - 1/5,1995 RV,41,56,+15.0
+Economist/YouGov,12/28 - 12/31,1123 RV,44,53,+9.0
+Harvard-Harris,12/27 - 12/29,2010 RV,47,53,+6.0
+Economist/YouGov,12/22 - 12/24,1240 RV,43,54,+11.0
+Politico/Morning Consult,12/19 - 12/20,1387 RV,41,56,+15.0
+Reuters/Ipsos,12/16 - 12/17,963 RV,45,53,+8.0
+Emerson,12/15 - 12/17,1222 RV,46,49,+3.0
+NBC News/Wall St. Jrnl,12/14 - 12/17,900 A,44,54,+10.0
+Economist/YouGov,12/14 - 12/17,1164 RV,44,53,+9.0
+Rasmussen Reports,12/17 - 12/19,1500 LV,50,48,+2.0
+Politico/Morning Consult,12/14 - 12/15,1991 RV,41,56,+15.0
+The Hill/HarrisX,12/13 - 12/14,1000 RV,49,51,+2.0
+CNN,12/12 - 12/15,888 RV,44,52,+8.0
+Quinnipiac,12/11 - 12/15,1390 RV,43,52,+9.0
+USA Today/Suffolk,12/10 - 12/14,1000 RV,48,50,+2.0
+CNBC,12/10 - 12/13,800 A,40,49,+9.0
+NPR/PBS/Marist,12/9 - 12/11,1508 RV,43,53,+10.0
+IBD/TIPP,12/5 - 12/14,905 A,44,52,+8.0
+FOX News,12/8 - 12/11,1000 RV,45,53,+8.0
+Reuters/Ipsos,12/9 - 12/10,945 RV,41,56,+15.0
+The Hill/HarrisX,12/8 - 12/9,1000 RV,46,54,+8.0
+Gallup,12/2 - 12/15,1025 A,45,51,+6.0
+Economist/YouGov,12/7 - 12/10,1209 RV,44,53,+9.0
+Rasmussen Reports,12/8 - 12/10,1500 LV,51,48,+3.0
+Quinnipiac,12/4 - 12/9,1553 RV,41,55,+14.0
+Politico/Morning Consult,12/6 - 12/8,1994 RV,39,58,+19.0
+Monmouth,12/4 - 12/8,838 RV,44,49,+5.0
+Economist/YouGov,12/1 - 12/3,1200 RV,46,52,+6.0
+Reuters/Ipsos,12/2 - 12/3,955 RV,42,54,+12.0
+Harvard-Harris,11/27 - 11/29,1859 RV,47,53,+6.0
+Reuters/Ipsos,11/25 - 11/26,971 RV,43,54,+11.0
+Economist/YouGov,11/24 - 11/26,1189 RV,44,53,+9.0
+Politico/Morning Consult,11/22 - 11/24,1988 RV,40,56,+16.0
+Rasmussen Reports,11/21 - 11/25,1500 LV,46,53,+7.0
+Quinnipiac,11/21 - 11/25,1355 RV,40,54,+14.0
+CNN,11/21 - 11/24,910 RV,43,53,+10.0
+Emerson,11/17 - 11/20,1092 RV,48,47,+1.0
+Reuters/Ipsos,11/18 - 11/19,960 RV,41,56,+15.0
+Economist/YouGov,11/17 - 11/19,1224 RV,44,54,+10.0
+Politico/Morning Consult,11/15 - 11/17,1994 RV,41,55,+14.0
+NPR/PBS/Marist,11/11 - 11/15,988 RV,44,51,+7.0
+Reuters/Ipsos,11/12 - 11/13,952 RV,40,58,+18.0
+Economist/YouGov,11/10 - 11/12,1206 RV,43,55,+12.0
+Politico/Morning Consult,11/8 - 11/10,1993 RV,40,57,+17.0
+Rasmussen Reports,11/11 - 11/13,1500 LV,48,51,+3.0
+The Hill/HarrisX,11/8 - 11/9,1204 RV,47,53,+6.0
+Gallup,11/1 - 11/14,1015 A,43,54,+11.0
+Reuters/Ipsos,11/4 - 11/5,944 RV,40,56,+16.0
+Economist/YouGov,11/3 - 11/5,1201 RV,45,53,+8.0
+Politico/Morning Consult,11/1 - 11/3,1983 RV,41,55,+14.0
+Monmouth,10/30 - 11/3,835 RV,45,52,+7.0
+Rasmussen Reports,10/29 - 10/31,1500 LV,45,54,+9.0
+Harvard-Harris,10/29 - 10/31,1810 RV,46,54,+8.0
+NBC News/Wall St. Jrnl,10/27 - 10/30,900 A,45,53,+8.0
+ABC News/Wash Post,10/27 - 10/30,876 RV,39,59,+20.0
+FOX News,10/27 - 10/30,1040 RV,42,57,+15.0
+Economist/YouGov,10/27 - 10/29,1274 RV,45,53,+8.0
+Reuters/Ipsos,10/28 - 10/29,973 RV,41,57,+16.0
+The Hill/HarrisX,10/27 - 10/28,1001 RV,46,54,+8.0
+IBD/TIPP,10/24 - 10/31,903 A,39,56,+17.0
+Politico/Morning Consult,10/25 - 10/28,1997 RV,43,54,+11.0
+USA Today/Suffolk,10/23 - 10/26,1000 RV,46,52,+6.0
+Gallup,10/14 - 10/31,1506 A,41,57,+16.0
+Grinnell/Selzer,10/17 - 10/23,806 LV,43,51,+8.0
+Economist/YouGov,10/20 - 10/22,1204 RV,43,54,+11.0
+Reuters/Ipsos,10/18 - 10/22,3447 RV,41,57,+16.0
+Emerson,10/18 - 10/21,1000 RV,43,47,+4.0
+Politico/Morning Consult,10/18 - 10/21,1989 RV,41,56,+15.0
+Quinnipiac,10/17 - 10/21,1587 RV,38,58,+20.0
+CNN,10/17 - 10/20,892 RV,42,57,+15.0
+Rasmussen Reports,10/17 - 10/21,1500 LV,45,52,+7.0
+Reuters/Ipsos,10/14 - 10/15,961 RV,43,54,+11.0
+Economist/YouGov,10/13 - 10/15,1136 RV,42,55,+13.0
+Quinnipiac,10/11 - 10/13,1195 RV,41,54,+13.0
+Politico/Morning Consult,10/11 - 10/13,1993 RV,40,57,+17.0
+GU Politics/Battleground,10/6 - 10/10,1000 LV,43,53,+10.0
+Reuters/Ipsos,10/7 - 10/8,956 RV,41,56,+15.0
+Politico/Morning Consult,10/7 - 10/8,1991 RV,41,57,+16.0
+Economist/YouGov,10/6 - 10/8,1241 RV,46,52,+6.0
+FOX News,10/6 - 10/8,1003 RV,43,55,+12.0
+Gallup,10/1 - 10/13,1526 A,39,57,+18.0
+NPR/PBS/Marist,10/3 - 10/8,926 RV,45,51,+6.0
+NBC News/Wall St. Jrnl,10/4 - 10/6,800 A,43,53,+10.0
+Quinnipiac,10/4 - 10/7,1483 RV,40,54,+14.0
+IBD/TIPP,9/26 - 10/3,900 A,43,54,+11.0
+Reuters/Ipsos,9/30 - 10/1,964 RV,41,56,+15.0
+Economist/YouGov,9/28 - 10/1,1087 RV,42,56,+14.0
+The Hill/HarrisX,9/28 - 9/29,1000 RV,49,51,+2.0
+Politico/Morning Consult,9/27 - 9/30,2488 RV,41,56,+15.0
+Quinnipiac,9/27 - 9/29,1115 RV,41,53,+12.0
+Rasmussen Reports,9/25 - 9/29,1500 LV,49,50,+1.0
+Monmouth,9/23 - 9/29,1017 RV,43,53,+10.0
+CNBC,9/24 - 9/28,800 A,37,53,+16.0
+NPR/PBS/Marist,9/25 - 9/25,745 RV,45,51,+6.0
+Reuters/Ipsos,9/24 - 9/25,942 RV,42,53,+11.0
+Harvard-Harris,9/22 - 9/24,2009 RV,46,54,+8.0
+Gallup,9/16 - 9/30,2431 A,40,56,+16.0
+Economist/YouGov,9/22 - 9/24,1198 RV,44,52,+8.0
+Emerson,9/21 - 9/23,1019 RV,48,47,+1.0
+Quinnipiac,9/19 - 9/23,1337 RV,40,55,+15.0
+Politico/Morning Consult,9/20 - 9/22,1994 RV,41,55,+14.0
+Reuters/Ipsos,9/16 - 9/17,939 RV,43,55,+12.0
+FOX News,9/15 - 9/17,1008 RV,45,54,+9.0
+Rasmussen Reports,9/15 - 9/17,1500 LV,51,48,+3.0
+NBC News/Wall St. Jrnl,9/13 - 9/16,900 RV,45,53,+8.0
+Economist/YouGov,9/14 - 9/17,1184 RV,44,53,+9.0
+Politico/Morning Consult,9/13 - 9/16,1994 RV,43,53,+10.0
+The Hill/HarrisX,9/11 - 9/12,1000 RV,47,53,+6.0
+Reuters/Ipsos,9/9 - 9/10,992 RV,44,53,+9.0
+Gallup,9/3 - 9/15,1525 A,43,54,+11.0
+Economist/YouGov,9/8 - 9/10,1188 RV,44,54,+10.0
+Politico/Morning Consult,9/7 - 9/8,1998 RV,43,54,+11.0
+CNN,9/5 - 9/9,1526 RV,42,54,+12.0
+NPR/PBS/Marist,9/5 - 9/8,1160 RV,43,53,+10.0
+Reuters/Ipsos,9/3 - 9/4,950 RV,43,54,+11.0
+ABC News/Wash Post,9/2 - 9/5,877 RV,40,55,+15.0
+Economist/YouGov,9/1 - 9/3,1069 RV,46,51,+5.0
+Harvard-Harris,8/26 - 8/28,2531 RV,45,55,+10.0
+Reuters/Ipsos,8/26 - 8/27,961 RV,42,56,+14.0
+Economist/YouGov,8/24 - 8/27,1093 RV,44,52,+8.0
+IBD/TIPP,8/22 - 8/30,903 A,39,55,+16.0
+Emerson,8/24 - 8/26,1458 RV,43,52,+9.0
+Rasmussen Reports,8/25 - 8/27,1500 LV,47,52,+5.0
+Politico/Morning Consult,8/23 - 8/25,1987 RV,41,56,+15.0
+The Hill/HarrisX,8/23 - 8/24,1003 RV,46,54,+8.0
+Quinnipiac,8/21 - 8/26,1422 RV,38,56,+18.0
+USA Today/Suffolk,8/20 - 8/25,1000 RV,44,54,+10.0
+Gallup,8/15 - 8/30, A,39,57,+18.0
+Reuters/Ipsos,8/19 - 8/20,985 RV,42,54,+12.0
+The Hill/HarrisX,8/18 - 8/20,2002 RV,46,54,+8.0
+Economist/YouGov,8/17 - 8/20,1111 RV,44,52,+8.0
+Monmouth,8/16 - 8/20,689 RV,41,53,+12.0
+Rasmussen Reports,8/18 - 8/20,1500 LV,46,52,+6.0
+Politico/Morning Consult,8/16 - 8/18,1998 RV,42,55,+13.0
+CNN,8/15 - 8/18,886 RV,41,54,+13.0
+NBC News/Wall St. Jrnl,8/10 - 8/14,1000 A,43,55,+12.0
+FOX News,8/11 - 8/13,1013 RV,43,56,+13.0
+Reuters/Ipsos,8/12 - 8/13,980 RV,43,53,+10.0
+Economist/YouGov,8/10 - 8/13,1127 RV,44,54,+10.0
+Rasmussen Reports,8/11 - 8/13,1500 LV,45,54,+9.0
+Politico/Morning Consult,8/9 - 8/11,1993 RV,42,54,+12.0
+Gallup,8/1 - 8/14,1522 A,41,54,+13.0
+Politico/Morning Consult,8/5 - 8/7,1960 RV,41,55,+14.0
+The Hill/HarrisX,8/5 - 8/6,1001 RV,45,55,+10.0
+Rasmussen Reports,8/4 - 8/6,1500 LV,47,51,+4.0
+Economist/YouGov,8/3 - 8/6,1161 RV,44,52,+8.0
+Reuters/Ipsos,8/1 - 8/5,1795 RV,43,54,+11.0
+Politico/Morning Consult,8/1 - 8/3,1996 RV,45,52,+7.0
+Harvard-Harris,7/31 - 8/1,816 RV,45,55,+10.0
+Reuters/Ipsos,7/29 - 7/30,972 RV,40,58,+18.0
+IBD/TIPP,7/25 - 8/1,902 A,40,56,+16.0
+Economist/YouGov,7/27 - 7/30,1101 RV,43,55,+12.0
+Emerson,7/27 - 7/29,1233 RV,45,46,+1.0
+Rasmussen Reports,7/28 - 7/30,1500 LV,47,52,+5.0
+Politico/Morning Consult,7/25 - 7/27,1994 RV,43,53,+10.0
+Quinnipiac,7/25 - 7/28,579 RV,40,54,+14.0
+Politico/Morning Consult,7/25 - 7/25,1992 RV,41,57,+16.0
+Gallup,7/15 - 7/31,3038 A,42,54,+12.0
+Reuters/Ipsos,7/22 - 7/23,963 RV,42,57,+15.0
+FOX News,7/21 - 7/23,1004 RV,46,51,+5.0
+Economist/YouGov,7/21 - 7/23,1212 RV,45,52,+7.0
+The Hill/HarrisX,7/20 - 7/21,1003 RV,46,54,+8.0
+Rasmussen Reports,7/21 - 7/23,1500 LV,48,50,+2.0
+Politico/Morning Consult,7/19 - 7/21,1992 RV,40,57,+17.0
+NPR/PBS/Marist,7/15 - 7/17,1175 RV,44,53,+9.0
+Reuters/Ipsos,7/15 - 7/16,954 RV,44,54,+10.0
+Economist/YouGov,7/14 - 7/16,1149 RV,46,51,+5.0
+Rasmussen Reports,7/14 - 7/16,1500 LV,50,48,+2.0
+Politico/Morning Consult,7/12 - 7/14,1984 RV,40,56,+16.0
+The Hill/HarrisX,7/8 - 7/9,1001 RV,47,53,+6.0
+Reuters/Ipsos,7/8 - 7/9,971 RV,43,55,+12.0
+NBC News/Wall St. Jrnl,7/7 - 7/9,800 RV,45,52,+7.0
+Economist/YouGov,7/7 - 7/9,1140 RV,43,53,+10.0
+Emerson,7/6 - 7/8,1100 RV,44,48,+4.0
+Rasmussen Reports,7/7 - 7/9,1500 LV,49,50,+1.0
+Gallup,7/1 - 7/12,1525 A,44,51,+7.0
+PPP (D),7/3 - 7/8,604 RV,42,52,+10.0
+Economist/YouGov,6/30 - 7/2,1265 RV,44,53,+9.0
+Reuters/Ipsos,6/28 - 7/2,1973 RV,43,55,+12.0
+Rasmussen Reports,6/30 - 7/2,1500 LV,49,50,+1.0
+Politico/Morning Consult,6/29 - 7/1,1472 RV,43,53,+10.0
+ABC News/Wash Post,6/28 - 7/1,875 RV,47,50,+3.0
+CNN,6/28 - 6/30,1466 RV,45,51,+6.0
+Harvard-Harris,6/26 - 6/29,2182 RV,44,56,+12.0
+The Hill/HarrisX,6/25 - 6/26,1000 RV,45,55,+10.0
+Reuters/Ipsos,6/24 - 6/25,975 RV,41,56,+15.0
+Gallup,6/19 - 6/30,1018 A,41,54,+13.0
+Economist/YouGov,6/22 - 6/25,1111 RV,44,51,+7.0
+Rasmussen Reports,6/23 - 6/25,1500 LV,48,50,+2.0
+IBD/TIPP,6/20 - 6/27,900 A,43,49,+6.0
+Emerson,6/21 - 6/24,1096 RV,43,48,+5.0
+Politico/Morning Consult,6/21 - 6/24,1991 RV,43,54,+11.0
+Reuters/Ipsos,6/17 - 6/18,892 RV,42,57,+15.0
+Economist/YouGov,6/16 - 6/18,1202 RV,45,51,+6.0
+Politico/Morning Consult,6/14 - 6/16,1992 RV,41,54,+13.0
+Monmouth,6/12 - 6/17,660 RV,42,51,+9.0
+USA Today/Suffolk,6/11 - 6/15,1000 RV,49,48,+1.0
+Rasmussen Reports,6/16 - 6/18,1500 LV,47,50,+3.0
+FOX News,6/9 - 6/12,1001 RV,45,53,+8.0
+Reuters/Ipsos,6/10 - 6/11,983 RV,41,58,+17.0
+Economist/YouGov,6/9 - 6/11,1107 RV,45,52,+7.0
+NBC News/Wall St. Jrnl,6/8 - 6/11,1000 A,44,53,+9.0
+Gallup,6/3 - 6/16,1015 A,43,55,+12.0
+Rasmussen Reports,6/9 - 6/11,1500 LV,51,47,+4.0
+Quinnipiac,6/6 - 6/10,1214 RV,42,53,+11.0
+Politico/Morning Consult,6/7 - 6/9,1991 RV,41,56,+15.0
+The Hill/HarrisX,6/7 - 6/8,1001 RV,45,55,+10.0
+Economist/YouGov,6/2 - 6/4,1195 RV,45,53,+8.0
+NPR/PBS/Marist,5/31 - 6/4,783 RV,43,49,+6.0
+IBD/TIPP,5/30 - 6/7,906 A,42,52,+10.0
+Politico/Morning Consult,5/31 - 6/2,1997 RV,43,54,+11.0
+Rasmussen Reports,6/2 - 6/4,1500 LV,49,50,+1.0
+Reuters/Ipsos,5/29 - 6/5,3851 RV,40,57,+17.0
+Harvard-Harris,5/29 - 5/30,1295 RV,48,52,+4.0
+CNN,5/28 - 5/31,902 RV,43,53,+10.0
+Reuters/Ipsos,5/28 - 5/29,984 RV,42,56,+14.0
+Economist/YouGov,5/26 - 5/28,1120 RV,44,52,+8.0
+The Hill/HarrisX,5/24 - 5/25,1001 RV,44,56,+12.0
+CNBC,5/22 - 5/26,800 A,40,50,+10.0
+Gallup,5/15 - 5/30,1017 A,40,55,+15.0
+Rasmussen Reports,5/26 - 5/28,1500 LV,47,52,+5.0
+Rasmussen Reports,5/19 - 5/21,1500 LV,46,53,+7.0
+Economist/YouGov,5/18 - 5/21,1113 RV,44,54,+10.0
+CBS News,5/17 - 5/20,1101 A,41,52,+11.0
+Reuters/Ipsos,5/17 - 5/20,869 RV,44,55,+11.0
+Politico/Morning Consult,5/17 - 5/19,1995 RV,42,56,+14.0
+Monmouth,5/16 - 5/20,719 RV,41,52,+11.0
+Quinnipiac,5/16 - 5/20,1078 RV,38,57,+19.0
+Economist/YouGov,5/12 - 5/14,1244 RV,44,52,+8.0
+FOX News,5/11 - 5/14,1008 RV,46,53,+7.0
+Emerson,5/10 - 5/13,1006 RV,43,49,+6.0
+Reuters/Ipsos,5/10 - 5/14,1707 RV,40,57,+17.0
+Rasmussen Reports,5/12 - 5/14,1500 LV,48,50,+2.0
+Politico/Morning Consult,5/10 - 5/12,1995 RV,41,56,+15.0
+The Hill/HarrisX,5/10 - 5/11,1000 RV,44,56,+12.0
+Reuters/Ipsos,5/6 - 5/7,841 RV,43,55,+12.0
+Gallup,5/1 - 5/12,1009 A,42,52,+10.0
+Economist/YouGov,5/5 - 5/7,1168 RV,45,52,+7.0
+Rasmussen Reports,5/5 - 5/7,1500 LV,49,49,
+Politico/Morning Consult,5/3 - 5/6,1990 RV,43,52,+9.0
+IBD/TIPP,4/26 - 5/5,900 A,43,50,+7.0
+Harvard-Harris,4/30 - 5/1,1536 RV,46,54,+8.0
+NBC News/Wall St. Jrnl,4/28 - 5/1,900 A,46,51,+5.0
+The Hill/HarrisX,4/29 - 4/30,1001 RV,46,54,+8.0
+Reuters/Ipsos,4/29 - 4/30,1004 A,39,56,+17.0
+Economist/YouGov,4/27 - 4/30,1073 RV,44,53,+9.0
+Politico/Morning Consult,4/28 - 4/29,1995 RV,42,54,+12.0
+Rasmussen Reports,4/28 - 4/30,1500 LV,50,48,+2.0
+Gallup,4/17 - 4/30,1024 A,46,50,+4.0
+Quinnipiac,4/26 - 4/29,1044 RV,41,55,+14.0
+CNN,4/25 - 4/28,913 RV,44,53,+9.0
+NPR/PBS/Marist,4/24 - 4/29,840 RV,42,54,+12.0
+ABC News/Wash Post,4/22 - 4/25,865 RV,42,54,+12.0
+The Hill/HarrisX,4/22 - 4/23,1001 RV,45,55,+10.0
+Economist/YouGov,4/21 - 4/23,1268 RV,45,52,+7.0
+Rasmussen Reports,4/21 - 4/23,1500 LV,49,49,
+Reuters/Ipsos,4/17 - 4/23,4018 A,40,53,+13.0
+Politico/Morning Consult,4/19 - 4/21,1992 RV,39,57,+18.0
+The Hill/HarrisX,4/15 - 4/16,1000 RV,46,54,+8.0
+Reuters/Ipsos,4/15 - 4/16,1006 A,40,56,+16.0
+FOX News,4/14 - 4/16,1005 RV,45,51,+6.0
+Rasmussen Reports,4/14 - 4/16,1500 LV,52,48,+4.0
+Economist/YouGov,4/13 - 4/16,1186 RV,43,52,+9.0
+Monmouth,4/11 - 4/15,711 RV,40,54,+14.0
+Politico/Morning Consult,4/12 - 4/14,1998 RV,44,51,+7.0
+Emerson,4/11 - 4/14,914 RV,43,49,+6.0
+Economist/YouGov,4/6 - 4/9,1267 RV,43,55,+12.0
+Rasmussen Reports,4/7 - 4/9,1500 LV,51,47,+4.0
+Reuters/Ipsos,4/5 - 4/9,2667 A,39,56,+17.0
+Gallup,4/1 - 4/9,1012 A,45,51,+6.0
+Politico/Morning Consult,4/5 - 4/7,1992 RV,40,56,+16.0
+GU Politics/Battleground,3/31 - 4/4,1000 RV,43,52,+9.0
+IBD/TIPP,3/28 - 4/6,907 A,41,52,+11.0
+The Hill/HarrisX,4/1 - 4/2,1000 RV,46,54,+8.0
+Economist/YouGov,3/31 - 4/2,1227 RV,43,54,+11.0
+Rasmussen Reports,3/31 - 4/2,1500 LV,50,48,+2.0
+Politico/Morning Consult,3/29 - 4/1,1945 RV,42,53,+11.0
+Reuters/Ipsos,3/26 - 4/1,3962 A,42,53,+11.0
+PPP (D),3/27 - 3/28,846 RV,42,52,+10.0
+NPR/PBS/Marist,3/25 - 3/27,834 RV,44,50,+6.0
+NBC News/Wall St. Jrnl,3/23 - 3/27,1000 A,43,53,+10.0
+Harvard-Harris,3/25 - 3/26,1437 RV,45,55,+10.0
+Politico/Morning Consult,3/25 - 3/26,1978 RV,42,55,+13.0
+Economist/YouGov,3/24 - 3/26,1249 RV,46,51,+5.0
+Reuters/Ipsos,3/20 - 3/26,4603 A,42,52,+10.0
+Rasmussen Reports,3/24 - 3/26,1500 LV,49,50,+1.0
+Quinnipiac,3/21 - 3/25,1358 RV,39,55,+16.0
+Pew Research,3/20 - 3/25, RV,41,55,+14.0
+CNBC,3/18 - 3/21,800 A,40,49,+9.0
+FOX News,3/17 - 3/20,1002 RV,46,51,+5.0
+The Hill/HarrisX,3/18 - 3/19,1003 RV,45,55,+10.0
+Economist/YouGov,3/17 - 3/19,1287 RV,42,56,+14.0
+Emerson,3/17 - 3/18,1153 RV,43,50,+7.0
+Reuters/Ipsos,3/13 - 3/19,2222 A,39,55,+16.0
+Politico/Morning Consult,3/15 - 3/17,1991 RV,41,54,+13.0
+CNN,3/14 - 3/17,914 RV,43,51,+8.0
+USA Today/Suffolk,3/13 - 3/17,1000 RV,48,49,+1.0
+Rasmussen Reports,3/13 - 3/17,1500 LV,47,51,+4.0
+Economist/YouGov,3/10 - 3/12,1279 RV,45,53,+8.0
+Reuters/Ipsos,3/6 - 3/12,2207 A,41,54,+13.0
+Politico/Morning Consult,3/8 - 3/10,1994 RV,41,54,+13.0
+Gallup,3/1 - 3/10,1032 A,39,57,+18.0
+The Hill/HarrisX,3/5 - 3/6,1001 RV,45,55,+10.0
+Economist/YouGov,3/3 - 3/5,1304 RV,45,53,+8.0
+Rasmussen Reports,3/5 - 3/7,1500 LV,50,49,+1.0
+Monmouth,3/1 - 3/4,746 RV,44,52,+8.0
+Quinnipiac,3/1 - 3/4,1120 RV,38,55,+17.0
+Politico/Morning Consult,3/1 - 3/3,1993 RV,41,54,+13.0
+Reuters/Ipsos,2/27 - 3/5,3269 A,39,56,+17.0
+NBC News/Wall St. Jrnl,2/24 - 2/27,900 A,46,52,+6.0
+Economist/YouGov,2/24 - 2/26,1328 RV,43,53,+10.0
+IBD/TIPP,2/21 - 3/2,907 A,41,53,+12.0
+Reuters/Ipsos,2/20 - 2/26,3514 A,41,55,+14.0
+Politico/Morning Consult,2/22 - 2/24,1994 RV,42,54,+12.0
+Rasmussen Reports,2/24 - 2/26,1500 LV,49,49,
+Harvard-Harris,2/19 - 2/20,1792 RV,45,55,+10.0
+Gallup,2/12 - 2/28,1932 A,43,54,+11.0
+Economist/YouGov,2/17 - 2/19,1318 RV,45,52,+7.0
+The Hill/HarrisX,2/17 - 2/18,1001 RV,45,55,+10.0
+Politico/Morning Consult,2/15 - 2/19,1914 RV,42,53,+11.0
+Rasmussen Reports,2/17 - 2/19,1500 LV,49,51,+2.0
+Reuters/Ipsos,2/13 - 2/19,3322 A,41,55,+14.0
+Emerson,2/14 - 2/16,1000 RV,43,51,+8.0
+FOX News,2/10 - 2/12,1004 RV,46,52,+6.0
+Economist/YouGov,2/10 - 2/12,1283 RV,41,57,+16.0
+Rasmussen Reports,2/10 - 2/12,1500 LV,50,49,+1.0
+Reuters/Ipsos,2/6 - 2/12,2240 A,39,57,+18.0
+Politico/Morning Consult,2/7 - 2/10,1991 RV,45,51,+6.0
+The Hill/HarrisX,2/7 - 2/8,1002 RV,47,53,+6.0
+Gallup,2/1 - 2/10,1016 A,44,52,+8.0
+Economist/YouGov,2/2 - 2/5,1294 RV,42,54,+12.0
+Rasmussen Reports,2/3 - 2/5,1500 LV,48,51,+3.0
+Reuters/Ipsos,1/30 - 2/5,2470 A,38,57,+19.0
+Politico/Morning Consult,2/1 - 2/2,1993 RV,41,56,+15.0
+CNN,1/30 - 2/2, RV,42,54,+12.0
+Economist/YouGov,1/27 - 1/29,1313 RV,43,54,+11.0
+Rasmussen Reports,1/27 - 1/29,1500 LV,43,56,+13.0
+Quinnipiac,1/25 - 1/28,1004 RV,38,57,+19.0
+IBD/TIPP,1/24 - 2/1,905 A,39,57,+18.0
+Monmouth,1/25 - 1/27,735 RV,43,53,+10.0
+Reuters/Ipsos,1/23 - 1/29,2958 A,39,56,+17.0
+Politico/Morning Consult,1/25 - 1/27,1997 RV,40,55,+15.0
+Gallup,1/21 - 1/27,1500 A,37,59,+22.0
+ABC News/Wash Post,1/21 - 1/24,893 RV,38,58,+20.0
+NBC News/Wall St. Jrnl,1/20 - 1/23,900 A,43,54,+11.0
+FOX News,1/20 - 1/22,1008 RV,43,54,+11.0
+Economist/YouGov,1/20 - 1/22,1257 RV,42,55,+13.0
+Emerson,1/20 - 1/21,942 RV,42,52,+10.0
+The Hill/HarrisX,1/18 - 1/22,3001 RV,44,56,+12.0
+PPP (D),1/19 - 1/21,760 RV,40,57,+17.0
+Politico/Morning Consult,1/18 - 1/22,1996 RV,40,57,+17.0
+Reuters/Ipsos,1/16 - 1/22,2274 A,40,55,+15.0
+CBS News,1/18 - 1/21,1102 A,36,59,+23.0
+Rasmussen Reports,1/17 - 1/21,1500 LV,44,56,+12.0
+Harvard-Harris,1/15 - 1/16,1540 RV,45,55,+10.0
+Economist/YouGov,1/12 - 1/15,1289 RV,45,52,+7.0
+Reuters/Ipsos,1/9 - 1/15,3363 A,41,55,+14.0
+NPR/PBS/Marist,1/10 - 1/13,873 RV,40,54,+14.0
+Pew Research,1/9 - 1/14, RV,39,58,+19.0
+Quinnipiac,1/9 - 1/13,1209 RV,41,55,+14.0
+Rasmussen Reports,1/9 - 1/13,1500 LV,43,55,+12.0
+CNN,1/10 - 1/11,848 A,37,57,+20.0
+The Hill/HarrisX,1/8 - 1/11,3015 RV,44,56,+12.0
+IBD/TIPP,1/1 - 1/12,903 A,42,54,+12.0
+Gallup,1/2 - 1/10,1017 A,37,59,+22.0
+Economist/YouGov,1/6 - 1/8,1299 RV,44,53,+9.0
+Reuters/Ipsos,1/2 - 1/8,2201 A,40,55,+15.0
+Economist/YouGov,12/30 - 1/1,1283 RV,45,53,+8.0
+Reuters/Ipsos,12/26 - 1/1,2482 A,41,54,+13.0
+Harvard-Harris,12/24 - 12/25,1473 RV,44,56,+12.0
+Economist/YouGov,12/23 - 12/25,1298 RV,44,52,+8.0
+Gallup,12/16 - 12/22,1500 A,40,55,+15.0
+Economist/YouGov,12/16 - 12/18,1316 RV,43,54,+11.0
+Reuters/Ipsos,12/12 - 12/18,2201 A,43,52,+9.0
+USA Today/Suffolk,12/11 - 12/16,1000 RV,42,54,+12.0
+Quinnipiac,12/12 - 12/17,1147 RV,39,52,+13.0
+Rasmussen Reports,12/16 - 12/18,1500 LV,47,52,+5.0
+Gallup,12/10 - 12/16,1500 A,38,57,+19.0
+NBC News/Wall St. Jrnl,12/9 - 12/12,900 A,43,54,+11.0
+FOX News,12/9 - 12/11,1006 RV,46,52,+6.0
+Economist/YouGov,12/9 - 12/11,1303 RV,43,54,+11.0
+Reuters/Ipsos,12/5 - 12/11,2257 A,43,52,+9.0
+Emerson,12/6 - 12/9,800 RV,43,47,+4.0
+CNN,12/6 - 12/9, RV,40,53,+13.0
+Gallup,12/3 - 12/9,1500 A,40,56,+16.0
+CNBC,12/3 - 12/6,802 A,41,47,+6.0
+Economist/YouGov,12/2 - 12/4,1286 RV,46,52,+6.0
+NPR/PBS/Marist,11/28 - 12/4,835 RV,43,49,+6.0
+Reuters/Ipsos,11/28 - 12/4,2401 A,41,52,+11.0
+Gallup,11/26 - 12/2,1500 A,40,56,+16.0
+IBD/TIPP,11/26 - 12/2,823 A,39,55,+16.0
+Economist/YouGov,11/25 - 11/27,1293 RV,45,53,+8.0
+Harvard-Harris,11/25 - 11/26,1407 RV,46,54,+8.0
+Grinnell/Selzer,11/24 - 11/27,828 LV,44,47,+3.0
+Reuters/Ipsos,11/21 - 11/27,2289 A,44,51,+7.0
+Gallup,11/19 - 11/25,1500 A,38,60,+22.0
+Economist/YouGov,11/18 - 11/20,1328 RV,45,53,+8.0
+Rasmussen Reports,11/18 - 11/20,1500 LV,51,48,+3.0
+Reuters/Ipsos,11/14 - 11/20,2232 A,44,51,+7.0
+Quinnipiac,11/14 - 11/19,1046 RV,41,54,+13.0
+CBS News,11/15 - 11/18,1103 A,39,55,+16.0
+Gallup,11/12 - 11/18,1500 A,43,53,+10.0
+Economist/YouGov,11/11 - 11/13,1284 RV,45,54,+9.0
+Rasmussen Reports,11/11 - 11/13,1500 LV,46,52,+6.0
+Monmouth,11/9 - 11/12,716 RV,44,49,+5.0
+Reuters/Ipsos,11/7 - 11/13,2149 A,43,53,+10.0
+Gallup,11/5 - 11/11,1500 A,38,56,+18.0
+Economist/YouGov,11/4 - 11/6,1290 RV,45,52,+7.0
+CNN,11/1 - 11/3,1151 LV,41,57,+16.0
+Rasmussen Reports,11/4 - 11/6,1500 LV,48,50,+2.0
+NBC News/Wall St. Jrnl,11/1 - 11/3,774 LV,46,52,+6.0
+Gallup,10/29 - 11/4,1500 A,40,54,+14.0
+ABC News/Wash Post,10/29 - 11/1,1041 RV,44,52,+8.0
+Economist/YouGov,10/28 - 10/30,1296 RV,44,52,+8.0
+NPR/PBS/Marist,10/28 - 10/29,509 LV,41,53,+12.0
+IBD/TIPP,10/25 - 11/3,900 A,40,53,+13.0
+Harvard-Harris,10/26 - 10/28,1835 RV,44,56,+12.0
+Reuters/Ipsos,10/24 - 10/30,1383 LV,45,54,+9.0
+Gallup,10/22 - 10/28,1500 A,40,54,+14.0
+Rasmussen Reports,10/28 - 10/30,1500 LV,49,50,+1.0
+Economist/YouGov,10/21 - 10/23,1233 RV,45,52,+7.0
+NPR/PBS/Marist,10/21 - 10/23,738 RV,41,53,+12.0
+USA Today/Suffolk,10/18 - 10/22,1000 LV,43,54,+11.0
+Reuters/Ipsos,10/17 - 10/23,2062 LV,46,52,+6.0
+Rasmussen Reports,10/21 - 10/23,1500 LV,46,52,+6.0
+Gallup,10/15 - 10/21,1500 A,44,50,+6.0
+NBC News/Wall St. Jrnl,10/14 - 10/17,645 LV,45,52,+7.0
+CBS News,10/14 - 10/17, RV,42,53,+11.0
+Economist/YouGov,10/14 - 10/16,1273 RV,45,52,+7.0
+FOX News,10/13 - 10/16,841 LV,47,52,+5.0
+Reuters/Ipsos,10/10 - 10/16,1194 LV,45,54,+9.0
+Gallup,10/8 - 10/14,1500 A,44,51,+7.0
+Rasmussen Reports,10/14 - 10/16,1500 LV,49,50,+1.0
+ABC News/Wash Post,10/8 - 10/11,991 RV,43,53,+10.0
+Economist/YouGov,10/7 - 10/9,1162 RV,43,53,+10.0
+Reuters/Ipsos,10/3 - 10/9,2012 LV,42,57,+15.0
+Rasmussen Reports,10/7 - 10/9,1500 LV,49,49,
+CNBC,10/4 - 10/7,800 A,41,49,+8.0
+CNN,10/4 - 10/7,920 RV,43,52,+9.0
+Gallup,10/1 - 10/7,1500 A,43,53,+10.0
+Emerson,10/1 - 10/4,1000 RV,43,50,+7.0
+NPR/PBS/Marist,10/1 - 10/1,996 RV,43,53,+10.0
+Economist/YouGov,9/30 - 10/2,1227 RV,44,53,+9.0
+IBD/TIPP,9/27 - 10/3,905 A,40,54,+14.0
+Rasmussen Reports,9/30 - 10/2,1500 LV,49,50,+1.0
+Reuters/Ipsos,9/26 - 10/2,1840 LV,43,55,+12.0
+Harvard-Harris,9/29 - 9/30,1330 RV,45,55,+10.0
+Quinnipiac,9/27 - 9/30,1111 RV,41,53,+12.0
+Gallup,9/24 - 9/30,1500 A,42,53,+11.0
+Harvard-Harris,9/26 - 9/27,1228 RV,46,54,+8.0
+Economist/YouGov,9/23 - 9/25,1238 RV,44,53,+9.0
+NPR/PBS/Marist,9/22 - 9/24,802 RV,44,49,+5.0
+Rasmussen Reports,9/23 - 9/25,1500 LV,47,51,+4.0
+Reuters/Ipsos,9/19 - 9/25,1425 LV,45,53,+8.0
+Pew Research,9/18 - 9/24,1439 RV,40,55,+15.0
+Gallup,9/17 - 9/23,1500 A,40,56,+16.0
+FOX News,9/16 - 9/19,818 LV,46,52,+6.0
+NBC News/Wall St. Jrnl,9/16 - 9/19,900 RV,44,52,+8.0
+Economist/YouGov,9/16 - 9/18,1195 RV,44,53,+9.0
+Rasmussen Reports,9/16 - 9/18,1500 LV,47,52,+5.0
+Reuters/Ipsos,9/12 - 9/18,1304 LV,47,52,+5.0
+Gallup,9/10 - 9/16,1500 A,38,56,+18.0
+Economist/YouGov,9/9 - 9/11,1220 RV,44,52,+8.0
+Rasmussen Reports,9/9 - 9/11,1500 LV,45,53,+8.0
+Reuters/Ipsos,9/5 - 9/11,1226 LV,43,56,+13.0
+Quinnipiac,9/6 - 9/9,1038 RV,38,54,+16.0
+CNN,9/6 - 9/9,923 RV,37,57,+20.0
+NPR/Marist,9/5 - 9/9,777 RV,38,54,+16.0
+Gallup,9/3 - 9/9,1500 A,40,54,+14.0
+Economist/YouGov,9/2 - 9/4,1254 RV,43,54,+11.0
+Reuters/Ipsos,8/29 - 9/4,2012 RV,42,55,+13.0
+Rasmussen Reports,9/2 - 9/4,1500 LV,44,54,+10.0
+Grinnell/Selzer,8/29 - 9/2,779 LV,43,50,+7.0
+Gallup,8/27 - 9/2,1500 A,41,53,+12.0
+Emerson,8/29 - 8/31,1000 RV,38,53,+15.0
+ABC News/Wash Post,8/26 - 8/29,879 RV,38,60,+22.0
+Economist/YouGov,8/26 - 8/28,1249 RV,43,52,+9.0
+IBD/TIPP,8/23 - 8/30,902 A,36,56,+20.0
+Rasmussen Reports,8/26 - 8/28,1500 LV,47,53,+6.0
+USA Today/Suffolk,8/23 - 8/28,1000 RV,40,56,+16.0
+Reuters/Ipsos,8/22 - 8/28,2920 RV,40,57,+17.0
+NBC News/Wall St. Jrnl,8/22 - 8/25,600 RV,44,52,+8.0
+Harvard-Harris,8/22 - 8/23,1330 RV,46,54,+8.0
+Gallup,8/20 - 8/26,1500 A,41,54,+13.0
+NBC News/Wall St. Jrnl,8/18 - 8/22,900 RV,46,51,+5.0
+Economist/YouGov,8/19 - 8/21,1247 RV,44,52,+8.0
+FOX News,8/19 - 8/21,1009 RV,45,53,+8.0
+Reuters/Ipsos,8/15 - 8/21,1885 RV,43,54,+11.0
+Rasmussen Reports,8/19 - 8/21,1500 LV,46,52,+6.0
+Monmouth,8/15 - 8/19,725 RV,43,51,+8.0
+Gallup,8/13 - 8/19,1500 A,42,52,+10.0
+Economist/YouGov,8/12 - 8/14,1250 RV,46,50,+4.0
+Reuters/Ipsos,8/8 - 8/14,1860 RV,44,52,+8.0
+Quinnipiac,8/9 - 8/13,1175 RV,41,54,+13.0
+Rasmussen Reports,8/12 - 8/14,1500 LV,49,49,
+CNN,8/9 - 8/12,921 RV,44,53,+9.0
+Gallup,8/6 - 8/12,1500 A,39,56,+17.0
+Economist/YouGov,8/5 - 8/7,1289 RV,44,51,+7.0
+Reuters/Ipsos,8/3 - 8/7,1479 RV,45,52,+7.0
+Rasmussen Reports,8/5 - 8/7,1500 LV,47,51,+4.0
+Gallup,7/30 - 8/5,1500 A,41,54,+13.0
+Economist/YouGov,7/29 - 7/31,1222 RV,43,53,+10.0
+IBD/TIPP,7/26 - 8/2,900 A,41,50,+9.0
+Rasmussen Reports,7/29 - 7/31,1500 LV,48,50,+2.0
+Reuters/Ipsos,7/27 - 7/31,1571 RV,44,54,+10.0
+Gallup,7/23 - 7/29,1500 A,40,55,+15.0
+Harvard-Harris,7/24 - 7/25,1323 RV,45,55,+10.0
+Economist/YouGov,7/22 - 7/24,1203 RV,43,54,+11.0
+Rasmussen Reports,7/22 - 7/24,1500 LV,46,52,+6.0
+Reuters/Ipsos,7/20 - 7/24,1165 RV,44,53,+9.0
+NPR/PBS/Marist,7/19 - 7/22,923 RV,41,51,+10.0
+Quinnipiac,7/18 - 7/23,1177 RV,38,58,+20.0
+Gallup,7/16 - 7/22,1500 A,42,54,+12.0
+NBC News/Wall St. Jrnl,7/15 - 7/18,900 RV,45,52,+7.0
+Economist/YouGov,7/15 - 7/17,1272 RV,44,52,+8.0
+Rasmussen Reports,7/15 - 7/17,1500 LV,44,54,+10.0
+Reuters/Ipsos,7/13 - 7/17,2357 RV,42,54,+12.0
+Gallup,7/9 - 7/15,1500 A,43,52,+9.0
+FOX News,7/9 - 7/11,1007 RV,46,51,+5.0
+Economist/YouGov,7/8 - 7/10,1246 RV,43,52,+9.0
+Rasmussen Reports,7/8 - 7/10,1500 LV,47,51,+4.0
+Reuters/Ipsos,7/6 - 7/10,1295 RV,41,57,+16.0
+Emerson,7/6 - 7/7,900 RV,43,50,+7.0
+Gallup,7/1 - 7/8,1500 A,41,56,+15.0
+Economist/YouGov,7/1 - 7/3,1263 RV,45,51,+6.0
+Reuters/Ipsos,6/28 - 7/2,2252 RV,43,54,+11.0
+Quinnipiac,6/27 - 7/1,1020 RV,40,55,+15.0
+Gallup,6/25 - 7/1,1500 A,42,53,+11.0
+Economist/YouGov,6/24 - 6/26,1278 RV,43,52,+9.0
+Harvard-Harris,6/24 - 6/25,1448 RV,47,53,+6.0
+IBD/TIPP,6/21 - 6/29,900 A,41,54,+13.0
+Reuters/Ipsos,6/22 - 6/26,1199 RV,45,51,+6.0
+Rasmussen Reports,6/24 - 6/26,1500 LV,45,54,+9.0
+Gallup,6/18 - 6/24,1500 A,41,55,+14.0
+Economist/YouGov,6/17 - 6/19,1272 RV,44,50,+6.0
+CNBC,6/16 - 6/19,800 A,41,47,+6.0
+Rasmussen Reports,6/17 - 6/19,1500 LV,48,50,+2.0
+Reuters/Ipsos,6/15 - 6/19,1604 RV,44,53,+9.0
+CBS News,6/14 - 6/17,1100 A,42,52,+10.0
+USA Today/Suffolk,6/13 - 6/18,1000 RV,43,51,+8.0
+Quinnipiac,6/14 - 6/17,905 RV,43,52,+9.0
+CNN,6/14 - 6/17,901 RV,41,54,+13.0
+Gallup,6/11 - 6/17,1500 A,45,50,+5.0
+Monmouth,6/12 - 6/13,711 RV,45,46,+1.0
+Economist/YouGov,6/10 - 6/12,1308 RV,45,51,+6.0
+Reuters/Ipsos,6/8 - 6/12,2018 RV,43,54,+11.0
+Rasmussen Reports,6/10 - 6/12,1500 LV,49,49,
+PPP (D),6/8 - 6/10,679 RV,39,54,+15.0
+Pew Research,6/5 - 6/12,1608 RV,42,53,+11.0
+Gallup,6/4 - 6/10,1500 A,42,54,+12.0
+FOX News,6/3 - 6/6,1001 RV,45,51,+6.0
+Economist/YouGov,6/3 - 6/5,1292 RV,42,54,+12.0
+Reuters/Ipsos,6/1 - 6/5,1265 RV,40,57,+17.0
+NBC News/Wall St. Jrnl,6/1 - 6/4,900 RV,44,53,+9.0
+Rasmussen Reports,6/3 - 6/5,1500 LV,49,49,
+Quinnipiac,5/31 - 6/5,1223 RV,40,51,+11.0
+IBD/TIPP,5/29 - 6/5,905 A,36,55,+19.0
+Gallup,5/28 - 6/3,1500 A,41,55,+14.0
+Economist/YouGov,5/27 - 5/29,1279 RV,45,51,+6.0
+Reuters/Ipsos,5/25 - 5/29,1931 RV,44,53,+9.0
+Rasmussen Reports,5/27 - 5/29,1500 LV,47,52,+5.0
+Gallup,5/21 - 5/27,1500 A,40,55,+15.0
+Harvard-Harris,5/21 - 5/22,1347 RV,45,55,+10.0
+Rasmussen Reports,5/20 - 5/22,1500 LV,48,51,+3.0
+Economist/YouGov,5/20 - 5/22,1263 RV,41,54,+13.0
+Reuters/Ipsos,5/18 - 5/22,1080 RV,47,51,+4.0
+Gallup,5/14 - 5/20,1500 A,42,54,+12.0
+Economist/YouGov,5/13 - 5/15,1231 RV,44,52,+8.0
+Rasmussen Reports,5/13 - 5/15,1500 LV,48,50,+2.0
+Reuters/Ipsos,5/11 - 5/15,1290 RV,46,53,+7.0
+Gallup,5/7 - 5/13,1500 A,43,52,+9.0
+Economist/YouGov,5/6 - 5/8,1232 RV,44,52,+8.0
+Rasmussen Reports,5/6 - 5/8,1500 LV,47,51,+4.0
+Reuters/Ipsos,5/4 - 5/8,1171 RV,45,53,+8.0
+CBS News,5/3 - 5/6,1101 A,40,55,+15.0
+CNN,5/2 - 5/5,901 RV,44,51,+7.0
+Gallup,4/30 - 5/6,1500 A,42,52,+10.0
+IBD/TIPP,4/26 - 5/4,900 A,38,56,+18.0
+Economist/YouGov,4/29 - 5/1,1273 RV,44,53,+9.0
+Reuters/Ipsos,4/27 - 5/1,1337 RV,49,49,
+Pew Research,4/25 - 5/1,1221 RV,42,54,+12.0
+Monmouth,4/26 - 4/30,681 RV,45,48,+3.0
+Rasmussen Reports,4/29 - 5/1,1500 LV,49,49,
+Gallup,4/23 - 4/29,1500 A,42,53,+11.0
+Harvard-Harris,4/22 - 4/24,1549 RV,44,56,+12.0
+FOX News,4/22 - 4/24,1014 RV,44,53,+9.0
+Economist/YouGov,4/22 - 4/24,1270 RV,43,53,+10.0
+Rasmussen Reports,4/22 - 4/24,1500 LV,48,50,+2.0
+Quinnipiac,4/20 - 4/24,1193 RV,39,54,+15.0
+Reuters/Ipsos,4/20 - 4/24,1248 RV,41,55,+14.0
+Gallup,4/16 - 4/18,1500 A,38,57,+19.0
+Economist/YouGov,4/15 - 4/17,1274 RV,42,55,+13.0
+Rasmussen Reports,4/15 - 4/17,1500 LV,50,49,+1.0
+Reuters/Ipsos,4/13 - 4/17,1238 RV,41,56,+15.0
+NPR/PBS/Marist,4/10 - 4/13,827 RV,39,54,+15.0
+Gallup,4/9 - 4/15,1500 A,39,55,+16.0
+ABC News/Wash Post,4/8 - 4/11,865 RV,44,54,+10.0
+NBC News/Wall St. Jrnl,4/8 - 4/11,900 A,39,57,+18.0
+Economist/YouGov,4/8 - 4/10,1292 RV,42,53,+11.0
+Rasmussen Reports,4/8 - 4/10,1500 LV,49,50,+1.0
+Reuters/Ipsos,4/6 - 4/10,1219 RV,39,58,+19.0
+Quinnipiac,4/6 - 4/9,1181 RV,41,52,+11.0
+Gallup,4/2 - 4/8,1500 A,41,54,+13.0
+Economist/YouGov,4/1 - 4/3,1246 RV,41,55,+14.0
+Rasmussen Reports,4/1 - 4/3,1500 LV,51,48,+3.0
+Reuters/Ipsos,3/30 - 4/3,1519 RV,41,56,+15.0
+Harvard-Harris,3/27 - 3/29,1340 RV,44,56,+12.0
+Gallup,3/25 - 3/31,1500 A,39,55,+16.0
+Economist/YouGov,3/25 - 3/27,1330 RV,41,54,+13.0
+Reuters/Ipsos,3/23 - 3/27,1392 RV,41,55,+14.0
+Rasmussen Reports,3/25 - 3/27,1500 LV,45,53,+8.0
+IBD/TIPP,3/22 - 3/29,902 A,38,56,+18.0
+CNN,3/22 - 3/25,913 RV,43,53,+10.0
+PPP (D),3/23 - 3/25,846 RV,39,54,+15.0
+Gallup,3/19 - 3/25,1500 A,39,55,+16.0
+Marist,3/19 - 3/21,1015 RV,42,51,+9.0
+FOX News,3/18 - 3/21,1014 RV,45,52,+7.0
+Economist/YouGov,3/18 - 3/20,1284 RV,41,54,+13.0
+CNBC,3/17 - 3/20,801 A,39,50,+11.0
+Quinnipiac,3/16 - 3/20,1291 RV,40,53,+13.0
+Reuters/Ipsos,3/16 - 3/20,1337 RV,44,52,+8.0
+Rasmussen Reports,3/18 - 3/20,1500 LV,47,52,+5.0
+Gallup,3/12 - 3/18,1500 A,40,56,+16.0
+NBC News/Wall St. Jrnl,3/10 - 3/14,1100 A,43,53,+10.0
+Economist/YouGov,3/10 - 3/13,1291 RV,42,54,+12.0
+Pew Research,3/7 - 3/14, RV,42,53,+11.0
+Rasmussen Reports,3/11 - 3/13,1500 LV,47,52,+5.0
+Reuters/Ipsos,3/9 - 3/13,1411 A,39,56,+17.0
+CBS News,3/8 - 3/11,1223 A,38,57,+19.0
+Gallup,3/5 - 3/11,1500 A,39,56,+17.0
+GWU/Battleground,3/4 - 3/8,1000 RV,42,55,+13.0
+Marist,3/5 - 3/6,867 RV,44,49,+5.0
+Economist/YouGov,3/4 - 3/6,1310 RV,41,54,+13.0
+Quinnipiac,3/3 - 3/5,1122 RV,38,56,+18.0
+Monmouth,3/2 - 3/5,708 RV,40,54,+14.0
+Reuters/Ipsos,3/2 - 3/6,2927 A,40,54,+14.0
+Rasmussen Reports,3/4 - 3/6,1500 LV,46,53,+7.0
+Gallup,2/26 - 3/4,1500 A,39,55,+16.0
+IBD/TIPP,2/22 - 3/1,901 A,37,58,+21.0
+Economist/YouGov,2/25 - 2/27,1296 RV,44,53,+9.0
+Reuters/Ipsos,2/23 - 2/27,1651 A,40,56,+16.0
+Rasmussen Reports,2/25 - 2/27,1500 LV,49,50,+1.0
+Gallup,2/19 - 2/25,1500 A,39,56,+17.0
+USA Today/Suffolk,2/20 - 2/24,1000 RV,38,60,+22.0
+CNN,2/20 - 2/23,909 RV,39,56,+17.0
+Marist,2/20 - 2/21,819 RV,40,53,+13.0
+Economist/YouGov,2/18 - 2/20,1308 RV,44,51,+7.0
+Rasmussen Reports,2/18 - 2/20,1500 LV,48,51,+3.0
+Reuters/Ipsos,2/16 - 2/20,1104 A,40,55,+15.0
+Quinnipiac,2/16 - 2/19,1249 RV,37,58,+21.0
+Harvard-Harris,2/16 - 2/19,1934 RV,45,55,+10.0
+Gallup,2/12 - 2/18,1500 A,37,59,+22.0
+Economist/YouGov,2/11 - 2/13,1280 RV,45,50,+5.0
+FOX News,2/10 - 2/13,1005 RV,43,53,+10.0
+Rasmussen Reports,2/11 - 2/13,1500 LV,47,52,+5.0
+Reuters/Ipsos,2/9 - 2/13,1515 A,39,54,+15.0
+PPP (D),2/9 - 2/11,687 RV,44,50,+6.0
+Gallup,2/5 - 2/11,1500 A,40,57,+17.0
+Marist,2/5 - 2/7,807 RV,39,56,+17.0
+Economist/YouGov,2/4 - 2/6,1320 RV,45,53,+8.0
+Reuters/Ipsos,2/2 - 2/6,3110 A,40,54,+14.0
+Rasmussen Reports,2/4 - 2/6,1500 LV,48,51,+3.0
+Quinnipiac,2/2 - 2/5,1333 RV,40,55,+15.0
+Gallup,1/29 - 2/4,1500 A,40,57,+17.0
+IBD/TIPP,1/25 - 2/2,900 A,35,58,+23.0
+Monmouth,1/28 - 1/30,711 RV,44,48,+4.0
+Economist/YouGov,1/28 - 1/30,1264 RV,44,53,+9.0
+Rasmussen Reports,1/28 - 1/30,1500 LV,44,54,+10.0
+Reuters/Ipsos,1/26 - 1/30,1856 A,41,53,+12.0
+Gallup,1/21 - 1/28,1500 A,38,58,+20.0
+FOX News,1/21 - 1/23,1002 RV,45,53,+8.0
+Economist/YouGov,1/21 - 1/23,1301 RV,43,54,+11.0
+Reuters/Ipsos,1/19 - 1/23,2981 A,37,59,+22.0
+Quinnipiac,1/19 - 1/23,1245 RV,36,58,+22.0
+Rasmussen Reports,1/21 - 1/23,1500 LV,44,55,+11.0
+Gallup,1/15 - 1/21,1500 A,36,59,+23.0
+Harvard-Harris,1/17 - 1/19,980 RV,44,56,+12.0
+ABC News/Wash Post,1/15 - 1/18,846 RV,38,58,+20.0
+CNN,1/14 - 1/18, RV,43,53,+10.0
+Economist/YouGov,1/14 - 1/16,1311 RV,42,54,+12.0
+NBC News/Wall St. Jrnl,1/13 - 1/17,900 A,39,57,+18.0
+Harvard-Harris,1/13 - 1/16,1192 RV,42,58,+16.0
+CBS News,1/13 - 1/16,1225 A,37,58,+21.0
+Quinnipiac,1/12 - 1/16,1212 RV,38,57,+19.0
+Reuters/Ipsos,1/12 - 1/16,1638 A,39,56,+17.0
+Rasmussen Reports,1/14 - 1/16,1500 LV,45,54,+9.0
+Pew Research,1/10 - 1/15,1215 RV,39,55,+16.0
+Gallup,1/8 - 1/14,1500 A,38,57,+19.0
+Emerson,1/8 - 1/11,600 RV,39,52,+13.0
+NPR/PBS/Marist,1/8 - 1/10,1092 RV,40,51,+11.0
+Economist/YouGov,1/8 - 1/9,1327 RV,42,54,+12.0
+Quinnipiac,1/5 - 1/9,1106 RV,36,59,+23.0
+Rasmussen Reports,1/7 - 1/9,1500 LV,44,55,+11.0
+Reuters/Ipsos,1/5 - 1/9,1616 A,41,55,+14.0
+IBD/TIPP,1/2 - 1/10,901 A,35,58,+23.0
+Gallup,1/2 - 1/7,1500 A,37,58,+21.0
+Economist/YouGov,12/31 - 1/2,1277 RV,43,54,+11.0
+Reuters/Ipsos,12/29 - 1/2,1770 A,41,54,+13.0
+Gallup,12/28 - 12/30,1500 A,40,55,+15.0
+Rasmussen Reports,12/26 - 12/28,1500 LV,45,53,+8.0
+Economist/YouGov,12/24 - 12/26,1004 RV,43,53,+10.0
+Economist/YouGov,12/17 - 12/19,1291 RV,41,55,+14.0
+Rasmussen Reports,12/17 - 12/19,1500 LV,44,54,+10.0
+Reuters/Ipsos,12/15 - 12/19,2492 A,35,60,+25.0
+CNN,12/14 - 12/17,898 RV,36,59,+23.0
+Quinnipiac,12/13 - 12/18,1230 RV,37,59,+22.0
+NBC News/Wall St. Jrnl,12/13 - 12/15,900 A,41,56,+15.0
+PPP (D),12/11 - 12/12,862 RV,41,56,+15.0
+CNBC,12/10 - 12/13,800 A,42,49,+7.0
+Economist/YouGov,12/10 - 12/12,1338 RV,41,54,+13.0
+Monmouth,12/10 - 12/12,702 RV,33,59,+26.0
+Rasmussen Reports,12/10 - 12/12,1500 LV,41,57,+16.0
+Reuters/Ipsos,12/8 - 12/12,1457 A,33,61,+28.0
+Harvard-Harris,12/8 - 12/11,1989 RV,41,59,+18.0
+Quinnipiac,12/6 - 12/11,1211 RV,37,57,+20.0
+Marist,12/4 - 12/7,1079 RV,39,55,+16.0
+CBS News,12/3 - 12/5,1120 A,36,57,+21.0
+Economist/YouGov,12/3 - 12/5,1341 RV,43,52,+9.0
+Reuters/Ipsos,12/1 - 12/5,1548 A,37,59,+22.0
+Rasmussen Reports,12/3 - 12/5,1500 LV,42,56,+14.0
+Quinnipiac,11/29 - 12/4,1508 RV,35,58,+23.0
+Pew Research,11/29 - 12/4, RV,34,62,+28.0
+IBD/TIPP,11/27 - 12/4,901 A,36,59,+23.0
+Economist/YouGov,11/26 - 11/28,1319 RV,43,53,+10.0
+Rasmussen Reports,11/26 - 11/28,1500 LV,41,57,+16.0
+Reuters/Ipsos,11/24 - 11/28,1969 A,38,57,+19.0
+Economist/YouGov,11/19 - 11/21,1344 RV,40,55,+15.0
+Reuters/Ipsos,11/17 - 11/22,1489 A,36,59,+23.0
+Quinnipiac,11/15 - 11/20,1415 RV,38,55,+17.0
+NPR/PBS/Marist,11/13 - 11/15,802 RV,42,54,+12.0
+Economist/YouGov,11/12 - 11/14,1281 RV,39,56,+17.0
+Harvard-Harris,11/11 - 11/14,2350 RV,41,59,+18.0
+Rasmussen Reports,11/12 - 11/14,1500 LV,45,53,+8.0
+Reuters/Ipsos,11/10 - 11/14,1520 A,37,59,+22.0
+Quinnipiac,11/7 - 11/13,1577 RV,35,58,+23.0
+Marist,11/6 - 11/9,850 RV,39,55,+16.0
+Economist/YouGov,11/5 - 11/7,1336 RV,40,55,+15.0
+Rasmussen Reports,11/5 - 11/7,1500 LV,42,57,+15.0
+Reuters/Ipsos,11/3 - 11/7,1572 A,35,60,+25.0
+CNN,11/2 - 11/5, RV,38,57,+19.0
+IBD/TIPP,10/26 - 11/3,917 A,36,58,+22.0
+ABC News/Wash Post,10/29 - 11/1,884 RV,38,58,+20.0
+Economist/YouGov,10/29 - 10/31,1291 RV,43,52,+9.0
+Reuters/Ipsos,10/27 - 10/31,1798 A,36,60,+24.0
+Rasmussen Reports,10/29 - 10/31,1500 LV,43,55,+12.0
+CBS News,10/27 - 10/30,1109 A,39,55,+16.0
+PPP (D),10/27 - 10/29,572 RV,38,56,+18.0
+Pew Research,10/25 - 10/30,1504 A,34,59,+25.0
+NBC News/Wall St. Jrnl,10/23 - 10/26,900 A,38,58,+20.0
+FOX News,10/22 - 10/24,1005 RV,38,57,+19.0
+Economist/YouGov,10/22 - 10/24,1312 RV,41,56,+15.0
+Reuters/Ipsos,10/20 - 10/24,2352 A,35,60,+25.0
+Rasmussen Reports,10/22 - 10/24,1500 LV,42,56,+14.0
+Harvard-Harris,10/14 - 10/18,2159 RV,42,58,+16.0
+Marist,10/15 - 10/17,928 RV,38,54,+16.0
+Rasmussen Reports,10/15 - 10/17,1500 LV,43,55,+12.0
+Reuters/Ipsos,10/13 - 10/17,1678 A,38,58,+20.0
+Economist/YouGov,10/15 - 10/16,1326 RV,41,54,+13.0
+CNN,10/12 - 10/15, RV,38,57,+19.0
+Emerson,10/12 - 10/14,820 RV,44,50,+6.0
+Economist/YouGov,10/7 - 10/10,1278 RV,41,53,+12.0
+Reuters/Ipsos,10/6 - 10/10,1584 A,36,59,+23.0
+Quinnipiac,10/5 - 10/10,1482 RV,38,56,+18.0
+Rasmussen Reports,10/8 - 10/10,1500 LV,43,56,+13.0
+Economist/YouGov,10/1 - 10/3,1298 RV,42,55,+13.0
+IBD/TIPP,9/29 - 10/8,887 A,33,61,+28.0
+Reuters/Ipsos,9/30 - 10/3,1659 A,37,58,+21.0
+Rasmussen Reports,10/1 - 10/3,1500 LV,44,55,+11.0
+USA Today/Suffolk,9/27 - 10/1,1000 RV,38,56,+18.0
+CNN,9/26 - 9/28,1037 A,37,56,+19.0
+PBS/Marist,9/25 - 9/27,886 RV,39,54,+15.0
+CNBC,9/24 - 9/27,800 A,38,52,+14.0
+FOX News,9/24 - 9/26,1017 RV,42,53,+11.0
+Economist/YouGov,9/24 - 9/26,1254 RV,40,55,+15.0
+Reuters/Ipsos,9/22 - 9/26,3429 A,38,57,+19.0
+Rasmussen Reports,9/24 - 9/26,1500 LV,43,56,+13.0
+PPP (D),9/22 - 9/25,865 RV,42,53,+11.0
+Quinnipiac,9/21 - 9/26,1412 RV,36,57,+21.0
+CBS News,9/21 - 9/24,1202 A,35,55,+20.0
+ABC News/Wash Post,9/18 - 9/21, RV,42,54,+12.0
+CNN,9/17 - 9/20, RV,42,53,+11.0
+Economist/YouGov,9/17 - 9/19,1292 RV,43,51,+8.0
+Monmouth,9/15 - 9/19,857 RV,42,48,+6.0
+Reuters/Ipsos,9/15 - 9/19,1557 A,39,55,+16.0
+Rasmussen Reports,9/17 - 9/19,1500 LV,42,56,+14.0
+NBC News/Wall St. Jrnl,9/14 - 9/18,900 A,43,52,+9.0
+Marist,9/11 - 9/13,1009 RV,41,50,+9.0
+Economist/YouGov,9/10 - 9/12,1313 RV,42,54,+12.0
+Rasmussen Reports,9/10 - 9/12,1500 LV,42,56,+14.0
+Reuters/Ipsos,9/8 - 9/12,1669 A,35,59,+24.0
+Economist/YouGov,9/3 - 9/5,1309 RV,42,54,+12.0
+Rasmussen Reports,9/3 - 9/5,1500 LV,45,53,+8.0
+Reuters/Ipsos,9/1 - 9/5,1672 A,40,57,+17.0
+FOX News,8/27 - 8/29,1006 RV,41,55,+14.0
+Economist/YouGov,8/27 - 8/29,1278 RV,40,55,+15.0
+IBD/TIPP,8/23 - 8/31,905 A,38,57,+19.0
+Rasmussen Reports,8/27 - 8/29,1500 LV,41,58,+17.0
+Reuters/Ipsos,8/25 - 8/29,1767 A,37,58,+21.0
+Economist/YouGov,8/20 - 8/22,1327 RV,40,54,+14.0
+Reuters/Ipsos,8/18 - 8/22,2744 A,36,59,+23.0
+Quinnipiac,8/17 - 8/22,1514 RV,35,59,+24.0
+Rasmussen Reports,8/20 - 8/22,1500 LV,41,57,+16.0
+PPP (D),8/18 - 8/21,887 RV,40,53,+13.0
+ABC News/Wash Post,8/16 - 8/20, RV,39,58,+19.0
+GWU/Battleground,8/13 - 8/17,1000 RV,42,53,+11.0
+Pew Research,8/8 - 8/21,4971 A,36,63,+27.0
+NPR/PBS/Marist,8/14 - 8/15,859 RV,38,51,+13.0
+Economist/YouGov,8/13 - 8/15,1291 RV,42,54,+12.0
+Reuters/Ipsos,8/11 - 8/15,1587 A,35,58,+23.0
+Rasmussen Reports,8/13 - 8/15,1500 LV,40,58,+18.0
+Quinnipiac,8/9 - 8/15,1361 RV,39,57,+18.0
+Monmouth,8/10 - 8/14,706 RV,42,49,+7.0
+Marist,8/8 - 8/12,883 RV,37,55,+18.0
+Economist/YouGov,8/6 - 8/8,1303 RV,40,54,+14.0
+Rasmussen Reports,8/6 - 8/8,1500 LV,42,56,+14.0
+Reuters/Ipsos,8/4 - 8/8,1671 A,37,59,+22.0
+CBS News,8/3 - 8/6,1111 A,36,58,+22.0
+CNN,8/3 - 8/6, RV,40,56,+16.0
+IBD/TIPP,7/28 - 8/5,904 A,32,59,+27.0
+Economist/YouGov,7/31 - 8/1,1329 RV,39,55,+16.0
+Rasmussen Reports,7/30 - 8/1,1500 LV,38,62,+24.0
+Reuters/Ipsos,7/28 - 8/1,3130 A,37,59,+22.0
+Quinnipiac,7/27 - 8/1,1125 RV,33,61,+28.0
+Economist/YouGov,7/23 - 7/25,1282 RV,41,54,+13.0
+Rasmussen Reports,7/23 - 7/25,1500 LV,43,57,+14.0
+Reuters/Ipsos,7/21 - 7/25,1532 A,35,59,+24.0
+FOX News,7/16 - 7/18,1020 RV,41,53,+12.0
+Rasmussen Reports,7/16 - 7/18,1500 LV,42,58,+16.0
+PPP (D),7/14 - 7/17,836 RV,41,55,+14.0
+Economist/YouGov,7/15 - 7/18,1273 RV,39,56,+17.0
+Reuters/Ipsos,7/14 - 7/18,1470 A,38,58,+20.0
+Monmouth,7/13 - 7/16,713 RV,40,52,+12.0
+ABC News/Wash Post,7/10 - 7/13, RV,39,56,+17.0
+Bloomberg,7/8 - 7/12,1001 A,40,56,+16.0
+Economist/YouGov,7/9 - 7/11,1284 RV,41,52,+11.0
+Rasmussen Reports,7/9 - 7/11,1500 LV,45,55,+10.0
+Reuters/Ipsos,7/7 - 7/11,1530 A,40,56,+16.0
+Economist/YouGov,7/3 - 7/4,1323 RV,41,53,+12.0
+Reuters/Ipsos,6/30 - 7/4,1600 A,38,57,+19.0
+IBD/TIPP,6/23 - 6/29,900 A,37,58,+21.0
+FOX News,6/25 - 6/27,1017 RV,44,50,+6.0
+Economist/YouGov,6/25 - 6/27,1295 RV,42,53,+11.0
+Rasmussen Reports,6/25 - 6/27,1500 LV,46,54,+8.0
+USA Today/Suffolk,6/24 - 6/27,1000 RV,42,53,+11.0
+Reuters/Ipsos,6/23 - 6/27,1620  A,35,58,+23.0
+Quinnipiac,6/22 - 6/27,1212 RV,40,55,+15.0
+NPR/PBS/Marist,6/21 - 6/25,995 RV,38,53,+15.0
+Economist/YouGov,6/18 - 6/20,1277 RV,43,51,+8.0
+Rasmussen Reports,6/18 - 6/20,1500 LV,45,55,+10.0
+NBC News/Wall St. Jrnl,6/17 - 6/20,900 A,40,55,+15.0
+Reuters/Ipsos,6/16 - 6/20,1554 A,38,59,+21.0
+CBS News,6/15 - 6/18,1117 A,36,57,+21.0
+Pew Research,6/8 - 6/18,2097 RV,42,54,+12.0
+Gallup,6/11 - 6/13,1500 A,36,59,+23.0
+Rasmussen Reports,6/11 - 6/13,1500 LV,45,55,+10.0
+Economist/YouGov,6/11 - 6/13,1310 RV,42,51,+9.0
+Reuters/Ipsos,6/9 - 6/13,1492 A,40,56,+16.0
+CNBC,6/9 - 6/12,800 A,37,51,+14.0
+PPP (D),6/9 - 6/11,811 RV,41,52,+11.0
+Rasmussen Reports,6/4 - 6/6,1500 LV,45,55,+10.0
+Economist/YouGov,6/4 - 6/6,1288 RV,40,56,+16.0
+Reuters/Ipsos,6/2 - 6/6,2371 A,38,58,+20.0
+Quinnipiac,5/31 - 6/6,1361 RV,34,57,+23.0
+IBD/TIPP,5/30 - 6/6,903 A,37,55,+18.0
+Rasmussen Reports,5/28 - 5/30,1500 LV,43,57,+14.0
+Economist/YouGov,5/27 - 5/30,1269 RV,40,53,+13.0
+Reuters/Ipsos,5/26 - 5/30,2081 A,40,55,+15.0
+FOX News,5/21 - 5/23,1011 RV,40,53,+13.0
+Gallup,5/21 - 5/23,1500 A,39,55,+16.0
+Rasmussen Reports,5/21 - 5/23,1500 LV,48,52,+4.0
+Economist/YouGov,5/20 - 5/23,1276 RV,40,53,+13.0
+Reuters/Ipsos,5/19 - 5/23,2000 A,37,57,+20.0
+Quinnipiac,5/17 - 5/23,1404 RV,37,55,+18.0
+Monmouth,5/13 - 5/17,896 RV,39,54,+15.0
+Gallup,5/14 - 5/16,1500 A,38,57,+19.0
+Rasmussen Reports,5/14 - 5/16,1500 LV,44,56,+12.0
+Economist/YouGov,5/13 - 5/16,1298 RV,39,54,+15.0
+Reuters/Ipsos,5/12 - 5/16,1868 A,39,55,+16.0
+PPP (D),5/12 - 5/14,692 RV,40,54,+14.0
+NBC News/Wall St. Jrnl,5/11 - 5/13,800 A,39,54,+15.0
+Gallup,5/7 - 5/9,1500 A,40,53,+13.0
+Rasmussen Reports,5/7 - 5/9,1500 LV,47,53,+6.0
+Economist/YouGov,5/6 - 5/9,1287 RV,43,52,+9.0
+Reuters/Ipsos,5/5 - 5/9,1830 A,43,52,+9.0
+Quinnipiac,5/4 - 5/9,1078 RV,36,58,+22.0
+Gallup,4/30 - 5/2,1500 A,42,52,+10.0
+Rasmussen Reports,4/30 - 5/2,1500 LV,49,51,+2.0
+IBD/TIPP,4/28 - 5/4,904 A,39,54,+15.0
+Economist/YouGov,4/29 - 5/2,1255 RV,46,47,+1.0
+Reuters/Ipsos,4/28 - 5/2,2214 A,44,51,+7.0
+FOX News,4/23 - 4/25,1009 RV,45,48,+3.0
+Economist/YouGov,4/23 - 4/25,1295 RV,45,49,+4.0
+Gallup,4/23 - 4/25,1500 A,39,56,+17.0
+Rasmussen Reports,4/23 - 4/25,1500 LV,46,54,+8.0
+CBS News,4/21 - 4/24,1214 A,41,53,+12.0
+Reuters/Ipsos,4/21 - 4/25,2165 A,41,53,+12.0
+CNN/ORC,4/22 - 4/25,1009 A,44,54,+10.0
+ABC News/Wash Post,4/17 - 4/20,1004 A,42,53,+11.0
+NBC News/Wall St. Jrnl,4/17 - 4/20,900 A,40,54,+14.0
+PPP (D),4/17 - 4/18,648 RV,43,50,+7.0
+Rasmussen Reports,4/16 - 4/18,1500 LV,48,52,+4.0
+Gallup,4/15 - 4/18,1500 A,42,52,+10.0
+Economist/YouGov,4/15 - 4/18,1291 RV,44,50,+6.0
+Quinnipiac,4/12 - 4/18,1062 RV,40,56,+16.0
+Reuters/Ipsos,4/13 - 4/17,1843 A,43,52,+9.0
+Marist,4/11 - 4/12,869 RV,39,49,+10.0
+Economist/YouGov,4/10 - 4/11,1330 RV,43,52,+9.0
+Gallup,4/9 - 4/11,1500 A,41,52,+11.0
+Rasmussen Reports,4/9 - 4/11,1500 LV,47,53,+6.0
+CBS News,4/7 - 4/9,1006 A,43,49,+6.0
+Pew Research,4/5 - 4/11,1243 RV,42,52,+10.0
+CNBC,4/3 - 4/6,804 A,39,48,+9.0
+Gallup,4/2 - 4/4,1500 A,42,52,+10.0
+Rasmussen Reports,4/2 - 4/4,1500 LV,46,54,+8.0
+Economist/YouGov,4/2 - 4/4,1331 RV,43,50,+7.0
+Reuters/Ipsos,3/31 - 4/4,2149 A,46,50,+4.0
+Quinnipiac,3/30 - 4/3,1171 RV,35,57,+22.0
+PPP (D),3/27 - 3/28,677 RV,40,53,+13.0
+IBD/TIPP,3/24 - 3/30,904 A,34,56,+22.0
+Gallup,3/26 - 3/28,1500 A,35,59,+24.0
+Rasmussen Reports,3/26 - 3/28,1500 LV,44,56,+12.0
+Economist/YouGov,3/26 - 3/28,1271 RV,45,50,+5.0
+CBS News,3/25 - 3/28,1088 A,40,52,+12.0
+Reuters/Ipsos,3/24 - 3/28,1646 A,44,49,+5.0
+McClatchy/Marist,3/22 - 3/27,906 RV,38,51,+13.0
+Gallup,3/19 - 3/21,1500 A,40,55,+15.0
+Rasmussen Reports,3/19 - 3/21,1500 LV,46,54,+8.0
+Economist/YouGov,3/19 - 3/21,1296 RV,44,49,+5.0
+Reuters/Ipsos,3/17 - 3/21,1606 A,47,47,
+Quinnipiac,3/16 - 3/21,1056  RV,37,56,+19.0
+Economist/YouGov,3/13 - 3/14,1320 RV,44,49,+5.0
+FOX News,3/12 - 3/14,1008 RV,43,51,+8.0
+Gallup,3/12 - 3/14,1500 A,40,54,+14.0
+Rasmussen Reports,3/12 - 3/14,1500 LV,45,54,+9.0
+Reuters/Ipsos,3/10 - 3/14,1750 A,45,49,+4.0
+PPP (D),3/10 - 3/12,808 RV,43,50,+7.0
+Economist/YouGov,3/6 - 3/7,1359 RV,44,50,+6.0
+Gallup,3/5 - 3/7,1500 A,42,53,+11.0
+Rasmussen Reports,3/5 - 3/7,1500 LV,49,51,+2.0
+Reuters/Ipsos,3/3 - 3/7,1662 A,48,46,+2.0
+Quinnipiac,3/2 - 3/6,1283 RV,41,52,+11.0
+Monmouth,3/2 - 3/5,722 RV,44,46,+2.0
+USA Today/Suffolk,3/1 - 3/5,1000 RV,47,44,+3.0
+CNN/ORC,3/1 - 3/4,1025 A,45,52,+7.0
+Economist/YouGov,2/25 - 3/1,1251 RV,45,51,+6.0
+IBD/TIPP,2/24 - 3/4,909 A,41,53,+12.0
+Gallup,2/26 - 2/28,1500 A,43,52,+9.0
+Rasmussen Reports,2/26 - 2/28,1500 LV,50,50,
+Reuters/Ipsos,2/24 - 2/28,1847 A,46,48,+2.0
+PPP (D),2/21 - 2/22,941 RV,45,48,+3.0
+NBC News/Wall St. Jrnl,2/18 - 2/22,1000 A,44,48,+4.0
+CBS News,2/17 - 2/21,1280 A,39,51,+12.0
+Gallup,2/19 - 2/21,1500 A,42,52,+10.0
+Rasmussen Reports,2/19 - 2/21,1500 LV,51,49,+2.0
+Reuters/Ipsos,2/17 - 2/21,2338 A,45,50,+5.0
+Economist/YouGov,2/18 - 2/20,1198 RV,48,48,
+Quinnipiac,2/16 - 2/21,1323 RV,38,55,+17.0
+McClatchy/Marist,2/15 - 2/19,865 RV,41,49,+8.0
+Gallup,2/12 - 2/14,1500 A,40,53,+13.0
+Economist/YouGov,2/12 - 2/14,1100 RV,46,49,+3.0
+Rasmussen Reports,2/12 - 2/14,1500 LV,53,47,+6.0
+FOX News,2/11 - 2/13,1013 RV,48,47,+1.0
+Reuters/Ipsos,2/10 - 2/14,1774 A,46,50,+4.0
+Pew Research,2/7 - 2/12,1246 RV,42,54,+12.0
+PPP (D),2/7 - 2/8,712 RV,43,53,+10.0
+Economist/YouGov,2/5 - 2/7,1315 RV,44,49,+5.0
+Gallup,2/5 - 2/7,1500 A,43,52,+9.0
+Emerson,2/5 - 2/6,617 RV,48,47,+1.0
+Rasmussen Reports,2/5 - 2/7,1500 LV,53,47,+6.0
+Reuters/Ipsos,2/3 - 2/7,1896 A,48,47,+1.0
+Quinnipiac,2/2 - 2/6,1155 RV,42,51,+9.0
+CBS News,2/1 - 2/2,1019 A,40,48,+8.0
+CNN/ORC,1/31 - 2/2,1002 A,44,53,+9.0
+IBD/TIPP,1/27 - 2/2,885 A,42,48,+6.0
+PPP (D),1/30 - 1/31,725 RV,47,49,+2.0
+Gallup,1/29 - 1/31,1500 A,43,52,+9.0
+Rasmussen Reports,1/29 - 1/31,1500 LV,53,47,+6.0
+Economist/YouGov,1/28 - 1/31,1278 RV,47,45,+2.0
+Reuters/Ipsos,1/27 - 1/31,3151 A,46,47,+1.0
+Economist/YouGov,1/23 - 1/25,2312 RV,43,39,+4.0
+PPP (D),1/23 - 1/24,1043 RV,44,44,
+Quinnipiac,1/20 - 1/25,1190 RV,36,44,+8.0
+Gallup,1/22 - 1/24,1500 A,46,45,+1.0
+Rasmussen Reports,1/22 - 1/24,1500 LV,57,43,+14.0
+Reuters/Ipsos,1/20 - 1/24,1633 A,43,45,+2.0
